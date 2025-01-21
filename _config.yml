@@ -1,8 +1,20 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: DS-GA.3001
+description: Course Website
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://embodied-learning-vision-course.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  
+footer_content:
+# Collections for website data
+collections:
+  staffers:
+
+defaults:
+  - scope:
+      path: ''
+      type: staffers
+    values:
+      layout: staffer
+      subpath: '/assets/images/'

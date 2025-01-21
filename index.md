@@ -3,33 +3,61 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# DS-GA.3001 Advanced Topics in Embodied Learning and Vision (Spring 2025)
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+{:.no_toc}
 
-More specifically, the created site:
+## Table of contents
+{: .no_toc .text-delta }
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+1. TOC
+{:toc}
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+---
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## About
 
-To get started with creating a site, simply:
+How do we build end-to-end learning agents for embodied AI? This graduate level course covers advanced topics in embodied visual learning, perception and planning, with applications to robotics and self-driving. Topics include deep learning, computer vision, 3D perception, unsupervised 3D learning, self-supervised representation learning, continual learning, foundation model agents, etc. The goals of the course are:
+- Understand and apply computer vision and deep learning in the context of embodied agent learning by applying spatial geometric priors, model inductive biases, design multi-task network architectures, and embodied foundation models.
+- Learn to formulate a variety of computer vision and robotics problems using deep learning tools.
+- Develop a deep understanding of supervised and self-supervised representation learning for downstream perception and planning tasks.
+- Develop hands-on skill of implementing embodied learning systems in simulator environments.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+## Recommended Prerequisites
+- Machine Learning (DS-GA 1003 or CSCI-GA 2565)
+- Computer Vision (CSCI-GA 2271)
+- Deep Learning (DS-GA 1008)
+- Proficiency in Python Programming
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+## Logistics
+- Lectures: Thursday 4:55pm - 7:35pm (including 1hr recitation) 
+- Location 19 West 4th St. Room 102
+- Office Hours:
+- Communication: We will use Campuswire as our main communication tool for announcements and answering questions related to the lectures, assignments, and projects. The registration link is available on Brightspace.
 
-----
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+## Grading
+- **In-Class Participation (10%):** Marks will be given on the amount of in-class participation during the discussion and Q&A period.
+- **Paper Review (15%):** Students need to submit a one-page paper review on one of the selected readings every week.
+Paper Presentation (30%): Marks will be given on the prepared content, depth, analysis, and presentation quality.
+- **Project (45%):**
+	- **Project Proposal (10%):** Project proposal is due in the 6th week. Student groups will need to schedule a mandatory office hour to discuss the project with the instructor.
+	- **Report (25%):** Project report is due in the final week.
+	- **Presentation (10%):** Project presentations are conducted in the final two weeks.
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+## Course Work
+
+### Paper Reviews
+- **Late Policy:**
+- **Collaboration Policy:**
+- **Submission:**
+- **Grading:** We will release the grades within a week of the submission date.
+
+### Project
+- **Group:** You are asked to form a group of two upon the beginning of the semester. You need to register your team by **Feb** 
+
+## Academic Integrity
+Work you submit should be your own. Please consult the CAS academic integrity policy for more information: http://cas.nyu.edu/page/academicintegrity. Penalties for violations of academic integrity may include failure of the course, suspension from the University, or even expulsion.
+
+## GenAI Policy
+AI may not be used in weekly paper reviews and paper presentations. AI may be used towards coding assistance and report writing assistance in the course project. However, if the use of AI can still impact the grade if the report contains poor writings and non-factual statements.
