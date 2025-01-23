@@ -71,7 +71,7 @@ How do we build end-to-end learning agents for embodied AI? This graduate level 
 - **Project Presentation:** You can choose to present on Week 14 or Week 15. The groups who present on Week 14 will get a bonus of 2% added to their final grade. Time duration is 25 minutes + 5 min Q&A.
 
 ### Late Policy
-You have 4 late days in total for any deliverables. If your deliverable is a team effort then it would cost late days from each team member. Each deliverable has a maximum of 2 late days. If it is beyond 2 late days or you have used up your late days, then there will be a 20% penalty on the marks.
+You have 4 late days in total for any deliverables. If your deliverable is a team effort then it would cost late days from each team member. You can use a maximum of 2 late days on each deliverable. If it is beyond 2 late days or you have used up your late days, then there will be a 20% penalty on the marks each day.
 
 ## Academic Integrity
 Work you submit should be your own. Please consult the CAS academic integrity policy for more information: http://cas.nyu.edu/page/academicintegrity. Penalties for violations of academic integrity may include failure of the course, suspension from the University, or even expulsion.
