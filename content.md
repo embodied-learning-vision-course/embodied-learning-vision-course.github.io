@@ -5,7 +5,7 @@ layout: page
 
 Week 1 Jan 23
 : **Lec**{: .label .label-green }[Introduction](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week01_intro.pdf)
-  **Tut**{: .label .label-purple }[HPC tutorial](https://github.com/embodied-learning-vision-course/course-public/blob/main/2025-spring/lab/lab1_hpc.pdf)
+  **Tut**{: .label .label-purple }[HPC tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab1_hpc.pdf)
 : - Introduction
   - History of self-driving cars
   - Embodied learning
