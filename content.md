@@ -17,6 +17,7 @@ Week 1 Jan 23
 
 Week 2 Jan 30
 : **Lec**{: .label .label-green }Deep Learning for Structured Outputs
+  **Tut**{: .label .label-purple }Simulator Tutorial
 : - Suggested readings
     - LeCun (2006) [A Tutorial on Energy-Based Learning](https://www.cs.toronto.edu/~vnair/ciar/lecun1.pdf)
     - Girshick et al. (2013) [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
@@ -36,9 +37,26 @@ Week 2 Jan 30
 
 Week 3 Feb 6
 : **Lec**{: .label .label-green }3D Vision, Mapping
+  **Tut**{: .label .label-purple }Video Learning Tutorial
+: - Suggested readings:
+    - Fischer et al. (2015) [FlowNet: Learning Optical Flow with Convolutional Networks](https://arxiv.org/abs/1504.06852)
+    - Godard et al. (2016) [Unsupervised Monocular Depth Estimation with Left-Right Consistency](https://arxiv.org/abs/1609.03677)
+    - Qi et al. (2016) [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593)
+    - Tamar et al. (2016) [Value Iteration Networks](https://arxiv.org/abs/1602.02867)
+    - Parisotto et al. (2017) [Neural Map: Structured Memory for Deep Reinforcement Learning](https://arxiv.org/abs/1702.08360)
+    - Gupta et al. (2017) [Cognitive Mapping and Planning for Visual Navigation](https://arxiv.org/abs/1702.03920)
+  - Additional readings: 
+    - Chaplot et al. (2020) [Neural Topological SLAM for Visual Navigation](https://arxiv.org/abs/2005.12256)
+    - Huang et al. (2022) [FlowFormer: A Transformer Architecture for Optical Flow](https://arxiv.org/abs/2203.16194)
+    - Wu et al. (2023) [Policy Pre-training for Autonomous Driving via Self-supervised Geometric Modeling](https://arxiv.org/abs/2301.01006)
+    - Sun et al. (2023) [Dynamo-Depth: Fixing Unsupervised Depth Estimation for Dynamical Scenes](https://arxiv.org/abs/2310.18887)
+    - Yang et al. (2024) [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://arxiv.org/abs/2401.10891)
+    - Wang et al. (2025) [Continuous 3D Perception Model with Persistent State](https://arxiv.org/abs/2501.12387)
 
 Week 4 Feb 13
-: **Lec**{: .label .label-green }[Self-Supervised Representation Learning and Object Discovery]()
+: **Lec**{: .label .label-green }Self-Supervised Representation Learning and Object Discovery
+  **Tut**{: .label .label-purple }Egocentric Video Tutorial
 
 Week 5 Feb 20
-: **Lec**{: .label .label-green }[World Models and Forecasting]()
+: **Lec**{: .label .label-green }World Models and Forecasting
+  **Tut**{: .label .label-purple }Motion Learning Tutorial
