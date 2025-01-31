@@ -16,7 +16,7 @@ Week 1 Jan 23
 	- Smith & Gasser (2005) [The Development of Embodied Cognition: Six Lessons from Babies](https://cogdev.sitehost.iu.edu/labwork/6_lessons.pdf)
 
 Week 2 Jan 30
-: **Lec**{: .label .label-green }Deep Learning for Structured Outputs
+: **Lec**{: .label .label-green }[Deep Learning for Structured Outputs](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week02_structured_learning.pdf)
   **Tut**{: .label .label-purple }[Simulator Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab2_simulator.pdf)
 : - Suggested readings
     - LeCun (2006) [A Tutorial on Energy-Based Learning](https://www.cs.toronto.edu/~vnair/ciar/lecun1.pdf)
