@@ -17,7 +17,7 @@ Week 1 Jan 23
 
 Week 2 Jan 30
 : **Lec**{: .label .label-green }Deep Learning for Structured Outputs
-  **Tut**{: .label .label-purple }Simulator Tutorial
+  **Tut**{: .label .label-purple }[Simulator Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab2_simulator.pdf)
 : - Suggested readings
     - LeCun (2006) [A Tutorial on Energy-Based Learning](https://www.cs.toronto.edu/~vnair/ciar/lecun1.pdf)
     - Girshick et al. (2013) [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
