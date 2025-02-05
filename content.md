@@ -56,6 +56,21 @@ Week 3 Feb 6
 Week 4 Feb 13
 : **Lec**{: .label .label-green }Self-Supervised Representation Learning and Object Discovery
   **Tut**{: .label .label-purple }Egocentric Video Tutorial
+: - Suggested readings:
+    - Sermanet et al. (2017) [Time-Contrastive Networks: Self-Supervised Learning from Video](https://arxiv.org/abs/1704.06888)
+    - Van den Oord et al. (2018) [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
+    - Wu et al. (2018) [Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination](https://arxiv.org/abs/1805.01978)
+    - Chen et al. (2020) [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
+    - Grill et al. (2020) [Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://arxiv.org/abs/2006.07733)
+    - He et al. (2021) [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
+  - Additional readings:
+    - Weinzaepfel et al. (2022) [CroCo v2: Improved Cross-view Completion Pre-training for Stereo Matching and Optical Flow](https://arxiv.org/abs/2211.10408)
+    - Wang et al. (2022) [Self-Supervised Transformers for Unsupervised Object Discovery using Normalized Cut](https://arxiv.org/abs/2202.11539)
+    - Seo et al. (2022) [Masked World Models for Visual Control](https://arxiv.org/abs/2206.14244)
+    - Venkataramanan et al. (2023) [Is ImageNet Worth 1 Video? Learning Strong Image Encoders from 1 Long Unlabelled Video](https://arxiv.org/abs/2310.08584)
+    - van Steenkiste et al. (2024) [Moving Off-the-Grid: Scene-Grounded Video Representations](https://arxiv.org/abs/2411.05927)
+    - Cui et al. (2024) [DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control](https://arxiv.org/abs/2409.12192)
+    - Wang et al. (2024) [PooDLe: Pooled and Dense Self-Supervised Learning from Naturalistic Videos](https://arxiv.org/abs/2408.11208)
 
 Week 5 Feb 20
 : **Lec**{: .label .label-green }World Models and Forecasting
