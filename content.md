@@ -6,7 +6,7 @@ layout: page
 Week 1 Jan 23
 : **Lec**{: .label .label-green }[Introduction](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week01_intro.pdf)
   **Tut**{: .label .label-purple }[HPC tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab1_hpc.pdf)
-: - Introduction
+: - Content
   - History of self-driving cars
   - Embodied learning
   - Suggested readings
@@ -18,7 +18,12 @@ Week 1 Jan 23
 Week 2 Jan 30
 : **Lec**{: .label .label-green }[Deep Learning for Structured Outputs](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week02_structured_learning.pdf)
   **Tut**{: .label .label-purple }[Simulator Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab2_simulator.pdf)
-: - Suggested readings
+: - Content
+  - Object detection and segmentation
+  - Graphical models
+  - Energy-based models
+  - Autoregressive models
+  - Suggested readings
     - LeCun (2006) [A Tutorial on Energy-Based Learning](https://www.cs.toronto.edu/~vnair/ciar/lecun1.pdf)
     - Girshick et al. (2013) [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
     - Long et al. (2014) [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038)
@@ -36,9 +41,15 @@ Week 2 Jan 30
     - Chi et al. (2023) [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137)
 
 Week 3 Feb 6
-: **Lec**{: .label .label-green }3D Vision, Mapping
+: **Lec**{: .label .label-green }[3D Vision, Mapping](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week03_3d_mapping.pdf)
   **Tut**{: .label .label-purple }Video Learning Tutorial
-: - Suggested readings:
+: - Diffusion models
+    - Probabilistic foundation
+    - Applications in embodied learning
+  - 3D network designs
+    - Bird's eye view networks
+    - Point cloud networks
+  - Suggested readings:
     - Fischer et al. (2015) [FlowNet: Learning Optical Flow with Convolutional Networks](https://arxiv.org/abs/1504.06852)
     - Godard et al. (2016) [Unsupervised Monocular Depth Estimation with Left-Right Consistency](https://arxiv.org/abs/1609.03677)
     - Qi et al. (2016) [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593)
