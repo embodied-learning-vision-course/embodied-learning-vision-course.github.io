@@ -86,3 +86,16 @@ Week 4 Feb 13
 Week 5 Feb 20
 : **Lec**{: .label .label-green }World Models and Forecasting
   **Tut**{: .label .label-purple }Motion Learning Tutorial
+: - Suggested readings:
+    - Kalchbrenner et al. (2016) [Video Pixel Networks](https://arxiv.org/abs/1610.00527)
+    - Ha and Schmidhuber (2018) [World Models](https://arxiv.org/abs/1803.10122)
+    - Hafner et al. (2019) [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603)
+  - Additional readings:
+    - Liang et al. (2020) [Learning Lane Graph Representations for Motion Forecasting](https://arxiv.org/abs/2007.13732)
+    - Wu et al. (2022) [DayDreamer: World Models for Physical Robot Learning](https://arxiv.org/abs/2206.14176)
+    - Yu et al. (2022) [MAGVIT: Masked Generative Video Transformer](https://arxiv.org/abs/2212.05199)
+    - Hafner et al. (2023) [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104)
+    - Hansen et al. (2023) [TD-MPC2: Scalable, Robust World Models for Continuous Control](https://arxiv.org/abs/2310.16828)
+    - Zhang et al. (2024) [Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion](https://arxiv.org/abs/2311.01017)
+    - Casas et al. (2024) [DeTra: A Unified Model for Object Detection and Trajectory Forecasting](https://arxiv.org/abs/2406.04426)
+    - Bruce et al. (2024) [Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391)
