@@ -41,7 +41,7 @@ How do we build end-to-end learning agents for embodied AI? This graduate level 
 
 ## Grading
 - **In-Class Participation (10%):** Marks will be given on the amount of in-class participation during the discussion and Q&A period.
-- **Paper Review (15%):** Students need to submit a one-page paper review on one of the selected readings every week.
+- **Paper Review (15%):** Students need to submit a paper review on one of the selected readings every week.
 - **Topic Presentation (30%):** Marks will be given on the prepared content, depth, analysis, and presentation quality.
 - **Project (45%):**
 	- **Project Proposal (10%):** Project proposal is due in the 6th week. Student groups will need to schedule a mandatory office hour to discuss the project with the instructor.
@@ -51,7 +51,7 @@ How do we build end-to-end learning agents for embodied AI? This graduate level 
 ## Course Work
 
 ### Paper Reviews
-- **Submission:** You need to submit a paper review every week on Gradescope.
+- **Submission:** You need to submit a paper review following the provided template every week on Gradescope.
 
 - **Paper Selection:** You may choose a recent paper (<3 years) on the designated topic. You may choose one paper from the suggested reading list. If you choose your own paper, you should choose from reputable venues such as NeurIPS, ICML, ICLR, AISTATS, CoLLAs for ML papers, CVPR, ICCV, ECCV for CV papers, and ICRA, RSS, CoRL, IROS for robotics papers. You should choose papers that have a potential high impact.
 
