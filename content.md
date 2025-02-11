@@ -42,7 +42,7 @@ Week 2 Jan 30
 
 Week 3 Feb 6
 : **Lec**{: .label .label-green }[3D Vision, Mapping](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week03_3d_mapping.pdf)
-  **Tut**{: .label .label-purple }Video Learning Tutorial
+  **Tut**{: .label .label-purple }[Video Learning Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab3_video_learning.pdf)
 : - Diffusion models
     - Probabilistic foundation
     - Applications in embodied learning
