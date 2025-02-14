@@ -65,7 +65,7 @@ Week 3 Feb 6
     - Wang et al. (2025) [Continuous 3D Perception Model with Persistent State](https://arxiv.org/abs/2501.12387)
 
 Week 4 Feb 13
-: **Lec**{: .label .label-green }Self-Supervised Representation Learning and Object Discovery
+: **Lec**{: .label .label-green }[Self-Supervised Representation Learning and Object Discovery](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week04_ssl.pdf)
   **Tut**{: .label .label-purple }[Egocentric Video Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab4_ego4d.pdf)
 : - Suggested readings:
     - Sermanet et al. (2017) [Time-Contrastive Networks: Self-Supervised Learning from Video](https://arxiv.org/abs/1704.06888)
