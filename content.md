@@ -6,8 +6,7 @@ layout: page
 Week 1 Jan 23
 : **Lec**{: .label .label-green }[Introduction](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week01_intro.pdf)
   **Tut**{: .label .label-purple }[HPC tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab1_hpc.pdf)
-: - Content
-  - History of self-driving cars
+: - History of self-driving cars
   - Embodied learning
   - Suggested readings
     - Turing (1950) [Computing Machinery and Intelligence](https://www.cs.ox.ac.uk/activities/ieg/e-library/sources/t_article.pdf)
@@ -18,8 +17,7 @@ Week 1 Jan 23
 Week 2 Jan 30
 : **Lec**{: .label .label-green }[Deep Learning for Structured Outputs](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week02_structured_learning.pdf)
   **Tut**{: .label .label-purple }[Simulator Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab2_simulator.pdf)
-: - Content
-  - Object detection and segmentation
+: - Object detection and segmentation
   - Graphical models
   - Energy-based models
   - Autoregressive models
@@ -67,7 +65,20 @@ Week 3 Feb 6
 Week 4 Feb 13
 : **Lec**{: .label .label-green }[Self-Supervised Representation Learning and Object Discovery](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week04_ssl.pdf)
   **Tut**{: .label .label-purple }[Egocentric Video Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab4_ego4d.pdf)
-: - Suggested readings:
+: - 3D vision
+    - Sensor fusion
+    - Multi-task architecture
+  - Physical Grounding
+    - Stereo, self-supervised depth
+    - Optical flow
+    - Unsupervised flow, depth and pose
+  - Mapping
+    - Soft mapping
+    - Registration
+  - Representation learning
+    - DAE, MAE
+    - Energy-based models
+  - Suggested readings:
     - Sermanet et al. (2017) [Time-Contrastive Networks: Self-Supervised Learning from Video](https://arxiv.org/abs/1704.06888)
     - Van den Oord et al. (2018) [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
     - Wu et al. (2018) [Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination](https://arxiv.org/abs/1805.01978)
@@ -96,6 +107,76 @@ Week 5 Feb 20
     - Yu et al. (2022) [MAGVIT: Masked Generative Video Transformer](https://arxiv.org/abs/2212.05199)
     - Hafner et al. (2023) [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104)
     - Hansen et al. (2023) [TD-MPC2: Scalable, Robust World Models for Continuous Control](https://arxiv.org/abs/2310.16828)
+    - Hu et al. (2023) [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080)
     - Zhang et al. (2024) [Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion](https://arxiv.org/abs/2311.01017)
     - Casas et al. (2024) [DeTra: A Unified Model for Object Detection and Trajectory Forecasting](https://arxiv.org/abs/2406.04426)
     - Bruce et al. (2024) [Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391)
+
+Week 6 Feb 27
+: **Lec**{: .label .label-green }End-to-End Planning
+  **Tut**{: .label .label-purple }LLM Agent Tutorial
+: - Suggested readings:
+    - Ross et al. (2011) [A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning](https://arxiv.org/abs/1011.0686)
+    - Haarnoja et al. (2018) [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290)
+    - Srinivas et al. (2018) [Universal Planning Networks](https://arxiv.org/abs/1804.00645)
+    - Sukhbaatar et al. (2018) [Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play](https://arxiv.org/abs/1703.05407)
+    - Amos et al. (2018) [Differentiable MPC for End-to-end Planning and Control](https://arxiv.org/abs/1810.13400)
+    - Zeng et al. (2019) [End-to-end Interpretable Neural Motion Planner](https://arxiv.org/abs/2101.06679)
+  - Additional readings:
+    - Casas et al. (2021) [MP3: A Unified Model to Map, Perceive, Predict and Plan](https://arxiv.org/abs/2101.06806)
+    - Hu et al. (2022) [Planning-oriented Autonomous Driving](https://arxiv.org/abs/2212.10156)
+    - Chaplot et al. (2021) [Differentiable Spatial Planning using Transformers](https://arxiv.org/abs/2112.01010)
+    - Dinev et al. (2022) [Differentiable Optimal Control via Differential Dynamic Programming](https://arxiv.org/abs/2209.01117)
+    - Chi et al. (2023) [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137)
+
+
+Week 7 Mar 6
+: **Lec**{: .label .label-green }Continual Learning
+: - Suggested readings:
+    - Marsland (2002) [A Self-Organising Network that Grows when Required](https://www.sciencedirect.com/science/article/pii/S0893608002000783)
+    - Kirkpatrick et al. (2016) [Overcoming catastrophic forgetting in neural networks](https://arxiv.org/abs/1612.00796)
+    - Rebuffi et al. (2016) [iCaRL: Incremental Classifier and Representation Learning](https://arxiv.org/abs/1611.07725)
+    - Yoon et al. (2017) [Lifelong Learning with Dynamically Expandable Networks](https://arxiv.org/abs/1708.01547)
+    - Nguyen et al. (2017) [Variational Continual Learning](https://arxiv.org/abs/1710.10628)
+    - Van de Ven et al. (2020) [Brain-Inspired Replay for Continual Learning with Artificial Neural Networks](https://www.nature.com/articles/s41467-020-17866-2)
+  - Additional readings:
+    - Dohare et al. (2021) [Continual Backprop: Stochastic Gradient Descent with Persistent Randomness](https://arxiv.org/abs/2108.06325)
+    - Wang et al. (2021) [Learning to Prompt for Continual Learning](https://arxiv.org/abs/2112.08654)
+    - Powers et al. (2023) [Evaluating Continual Learning on a Home Robot](https://arxiv.org/abs/2306.02413)
+    - Zhang et al. (2023) [A Novel Visual Question Answering Continual Learning Setting](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_VQACL_A_Novel_Visual_Question_Answering_Continual_Learning_Setting_CVPR_2023_paper.pdf)
+    - Lee et al. (2023) [STELLA: Continual Audio-Video Pre-training with Spatio-Temporal Localized Alignment](https://arxiv.org/abs/2310.08204)
+    - Majumder et al. (2023) [CLIN: A Continually Learning Language Agent for Rapid Task Adaptation and Generalization](https://arxiv.org/abs/2310.10134)
+
+
+Week 8 Mar 13
+: **Lec**{: .label .label-green }Few-Shot Learning and Meta-Learning
+: - Suggested readings:
+    - Fei-Fei & Fergus (2006) [One-Shot Learning of Object Categories](http://vision.stanford.edu/documents/Fei-FeiFergusPerona2006.pdf)
+    - Lake et al. (2011) [One-Shot Learning of Simple Visual Concepts](https://cims.nyu.edu/~brenden/papers/LakeEtAl2011CogSci.pdf)
+    - Snell et al. (2017) [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175)
+    - Finn et al. (2017) [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)
+    - James et al. (2018) [Task-Embedded Control Networks for Few-Shot Imitation Learning](https://arxiv.org/abs/1810.03237)
+    - Brown et al. (2020) [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+    - Chen et al. (2021) [Exploring Simple Meta-Learning for Few-Shot Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Meta-Baseline_Exploring_Simple_Meta-Learning_for_Few-Shot_Learning_ICCV_2021_paper.pdf)
+  - Additional readings:
+    - Javed & White (2019) [Meta-Learning Representations for Continual Learning](https://arxiv.org/abs/1905.12588)
+    - Lake (2019) [Compositional Generalization through Meta Sequence-to-Sequence Learning](https://arxiv.org/abs/1906.05381)
+    - Ren et al. (2021) [Wandering Within a World: Online Contextualized Few-Shot Learning](https://arxiv.org/abs/2007.04546)
+    - Alayrac et al. (2022) [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198)
+    - Song et al. (2022) [LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models](https://arxiv.org/abs/2212.04088)
+
+Week 9 Mar 20
+: **Lec**{: .label .label-green }LLM Agents
+: - Suggested readings:
+    - Langley et al. (2009) [Cognitive architectures: Research issues and challenges](https://www.sciencedirect.com/science/article/abs/pii/S1389041708000557)
+    - Misra et al. (2017) [Mapping Instructions and Visual Observations to Actions with Reinforcement Learning](https://arxiv.org/abs/1704.08795)
+    - Andreson et al. (2018) [Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments](https://arxiv.org/abs/1711.07280)
+    - Andreas (2022) [Language Models as Agent Models](https://arxiv.org/abs/2212.01681)
+    - Sridhar et al. (2023) [Cognitive Neuroscience Perspective on Memory: Overview and Summary](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2023.1217093/full)
+  - Additional readings:
+    - Anh et al. (2022) [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://arxiv.org/abs/2204.01691)
+    - Sumers et al. (2023) [Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427)
+    - Schick et al. (2023) [Language Models Can Teach Themselves to Use Tools](https://arxiv.org/pdf/2302.04761)
+    - Rana et al. (2023) [SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning](https://arxiv.org/abs/2307.06135)
+    - Kim et al. (2024) [ReALFRED: An Embodied Instruction Following Benchmark in Photo-Realistic Environments](https://arxiv.org/abs/2407.18550)
+    - Li et al. (2024) [Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making](https://arxiv.org/abs/2410.07166)
