@@ -128,6 +128,7 @@ Week 6 Feb 27
     - Chaplot et al. (2021) [Differentiable Spatial Planning using Transformers](https://arxiv.org/abs/2112.01010)
     - Dinev et al. (2022) [Differentiable Optimal Control via Differential Dynamic Programming](https://arxiv.org/abs/2209.01117)
     - Chi et al. (2023) [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137)
+    - Psenka et al. (2024) [Learning a Diffusion Model Policy from Rewards via Q-Score Matching](https://arxiv.org/abs/2312.11752)
 
 
 Week 7 Mar 6
