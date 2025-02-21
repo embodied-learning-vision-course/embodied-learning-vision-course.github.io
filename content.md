@@ -95,7 +95,7 @@ Week 4 Feb 13
     - Wang et al. (2024) [PooDLe: Pooled and Dense Self-Supervised Learning from Naturalistic Videos](https://arxiv.org/abs/2408.11208)
 
 Week 5 Feb 20
-: **Lec**{: .label .label-green }World Models and Forecasting
+: **Lec**{: .label .label-green }[World Models and Forecasting](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week05_world_models.pdf)
   **Tut**{: .label .label-purple }Motion Learning Tutorial
 : - Suggested readings:
     - Kalchbrenner et al. (2016) [Video Pixel Networks](https://arxiv.org/abs/1610.00527)
