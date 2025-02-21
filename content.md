@@ -68,7 +68,7 @@ Week 4 Feb 13
 : - 3D vision
     - Sensor fusion
     - Multi-task architecture
-  - Physical Grounding
+  - Physical grounding
     - Stereo, self-supervised depth
     - Optical flow
     - Unsupervised flow, depth and pose
@@ -97,7 +97,18 @@ Week 4 Feb 13
 Week 5 Feb 20
 : **Lec**{: .label .label-green }[World Models and Forecasting](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week05_world_models.pdf)
   **Tut**{: .label .label-purple }Motion Learning Tutorial
-: - Suggested readings:
+: - Representation learning
+    - Energy-based models
+    - Joint embedding models
+  - Object discovery
+    - Pseudo-labels
+    - Slot-based models
+    - Complex-valued autoencoders
+  - World models
+    - Trajectory prediction
+    - Latent sequence models
+    - Occupancy volume prediction
+  - Suggested readings:
     - Kalchbrenner et al. (2016) [Video Pixel Networks](https://arxiv.org/abs/1610.00527)
     - Ha and Schmidhuber (2018) [World Models](https://arxiv.org/abs/1803.10122)
     - Hafner et al. (2019) [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603)
