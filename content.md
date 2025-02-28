@@ -4,8 +4,8 @@ layout: page
 ---
 
 Week 1 Jan 23
-: **Lec**{: .label .label-green }[Introduction](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week01_intro.pdf)
-  **Tut**{: .label .label-purple }[HPC tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab1_hpc.pdf)
+: **Lecture**{: .label .label-green }[Introduction](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week01_intro.pdf)
+  **Tutorial**{: .label .label-purple }[HPC tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab1_hpc.pdf)
 : - History of self-driving cars
   - Embodied learning
   - Suggested readings
@@ -15,8 +15,8 @@ Week 1 Jan 23
 	- Smith & Gasser (2005) [The Development of Embodied Cognition: Six Lessons from Babies](https://cogdev.sitehost.iu.edu/labwork/6_lessons.pdf)
 
 Week 2 Jan 30
-: **Lec**{: .label .label-green }[Deep Learning for Structured Outputs](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week02_structured_learning.pdf)
-  **Tut**{: .label .label-purple }[Simulator Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab2_simulator.pdf)
+: **Lecture**{: .label .label-green }[Deep Learning for Structured Outputs](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week02_structured_learning.pdf)
+  **Tutorial**{: .label .label-purple }[Simulator Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab2_simulator.pdf)
 : - Object detection and segmentation
   - Graphical models
   - Energy-based models
@@ -39,8 +39,8 @@ Week 2 Jan 30
     - Chi et al. (2023) [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137)
 
 Week 3 Feb 6
-: **Lec**{: .label .label-green }[3D Vision, Mapping](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week03_3d_mapping.pdf)
-  **Tut**{: .label .label-purple }[Video Learning Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab3_video_learning.pdf)
+: **Lecture**{: .label .label-green }[3D Vision, Mapping](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week03_3d_mapping.pdf)
+  **Tutorial**{: .label .label-purple }[Video Learning Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab3_video_learning.pdf)
 : - Diffusion models
     - Probabilistic foundation
     - Applications in embodied learning
@@ -63,8 +63,8 @@ Week 3 Feb 6
     - Wang et al. (2025) [Continuous 3D Perception Model with Persistent State](https://arxiv.org/abs/2501.12387)
 
 Week 4 Feb 13
-: **Lec**{: .label .label-green }[Self-Supervised Representation Learning and Object Discovery](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week04_ssl.pdf)
-  **Tut**{: .label .label-purple }[Egocentric Video Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab4_ego4d.pdf)
+: **Lecture**{: .label .label-green }[Self-Supervised Representation Learning and Object Discovery](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week04_ssl.pdf)
+  **Tutorial**{: .label .label-purple }[Egocentric Video Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab4_ego4d.pdf)
 : - 3D vision
     - Sensor fusion
     - Multi-task architecture
@@ -95,8 +95,8 @@ Week 4 Feb 13
     - Wang et al. (2024) [PooDLe: Pooled and Dense Self-Supervised Learning from Naturalistic Videos](https://arxiv.org/abs/2408.11208)
 
 Week 5 Feb 20
-: **Lec**{: .label .label-green }[World Models and Forecasting](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week05_world_models.pdf)
-  **Tut**{: .label .label-purple }Motion Learning Tutorial
+: **Lecture**{: .label .label-green }[World Models and Forecasting](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week05_world_models.pdf)
+  **Tutorial**{: .label .label-purple }Motion Learning Tutorial
 : - Representation learning
     - Energy-based models
     - Joint embedding models
@@ -124,8 +124,8 @@ Week 5 Feb 20
     - Bruce et al. (2024) [Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391)
 
 Week 6 Feb 27
-: **Lec**{: .label .label-green }End-to-End Planning
-  **Tut**{: .label .label-purple }LLM Agent Tutorial
+: **Lecture**{: .label .label-green }[End-to-End Planning](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week06_planning.pdf)
+  **Tutorial**{: .label .label-purple }LLM Agent Tutorial
 : - Suggested readings:
     - Ross et al. (2011) [A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning](https://arxiv.org/abs/1011.0686)
     - Haarnoja et al. (2018) [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290)
@@ -143,7 +143,8 @@ Week 6 Feb 27
 
 
 Week 7 Mar 6
-: **Lec**{: .label .label-green }Continual Learning
+: **Lecture**{: .label .label-green }Continual Learning, Few-Shot Learning and Meta-Learning
+  **Seminar**{: .label .label-purple }Structure Prediction
 : - Suggested readings:
     - Marsland (2002) [A Self-Organising Network that Grows when Required](https://www.sciencedirect.com/science/article/pii/S0893608002000783)
     - Kirkpatrick et al. (2016) [Overcoming catastrophic forgetting in neural networks](https://arxiv.org/abs/1612.00796)
@@ -161,8 +162,9 @@ Week 7 Mar 6
 
 
 Week 8 Mar 13
-: **Lec**{: .label .label-green }Few-Shot Learning and Meta-Learning
-: - Suggested readings:
+: **Lecture**{: .label .label-green } Guest Lecture (Prof. Wei-Chiu Ma)
+  **Seminar**{: .label .label-red } 3D Vision
+: - Suggested readings (on Few-Shot Learning):
     - Fei-Fei & Fergus (2006) [One-Shot Learning of Object Categories](http://vision.stanford.edu/documents/Fei-FeiFergusPerona2006.pdf)
     - Lake et al. (2011) [One-Shot Learning of Simple Visual Concepts](https://cims.nyu.edu/~brenden/papers/LakeEtAl2011CogSci.pdf)
     - Snell et al. (2017) [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175)
@@ -178,8 +180,9 @@ Week 8 Mar 13
     - Song et al. (2022) [LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models](https://arxiv.org/abs/2212.04088)
 
 Week 9 Mar 20
-: **Lec**{: .label .label-green }LLM Agents
-: - Suggested readings:
+: **Seminar**{: .label .label-red } Self-Supervised Learning
+  **Seminar**{: .label .label-red } World Models
+: - Suggested readings (on LLM Agents):
     - Langley et al. (2009) [Cognitive architectures: Research issues and challenges](https://www.sciencedirect.com/science/article/abs/pii/S1389041708000557)
     - Misra et al. (2017) [Mapping Instructions and Visual Observations to Actions with Reinforcement Learning](https://arxiv.org/abs/1704.08795)
     - Andreson et al. (2018) [Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments](https://arxiv.org/abs/1711.07280)
