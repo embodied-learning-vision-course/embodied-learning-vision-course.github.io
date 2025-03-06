@@ -126,7 +126,20 @@ Week 5 Feb 20
 Week 6 Feb 27
 : **Lecture**{: .label .label-green }[End-to-End Planning](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week06_planning.pdf)
   **Tutorial**{: .label .label-purple }[LLM Agent Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab6_LLMAgent.pdf)
-: - Suggested readings:
+  **Tutorial**{: .label .label-purple }LLM Agent Tutorial
+: - World models
+    - Latent prediction
+    - Video prediction
+    - 3D volume prediction
+  - End-to-end planning
+    - Imitation learning
+    - Energy-based planning
+    - Differentiable cost volume
+    - Value-iteration networks
+    - Backprop through planning
+  - Continual learning
+    - Parameter regularization
+  - Suggested readings:
     - Ross et al. (2011) [A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning](https://arxiv.org/abs/1011.0686)
     - Haarnoja et al. (2018) [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290)
     - Srinivas et al. (2018) [Universal Planning Networks](https://arxiv.org/abs/1804.00645)
