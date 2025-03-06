@@ -126,7 +126,6 @@ Week 5 Feb 20
 Week 6 Feb 27
 : **Lecture**{: .label .label-green }[End-to-End Planning](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week06_planning.pdf)
   **Tutorial**{: .label .label-purple }[LLM Agent Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab6_LLMAgent.pdf)
-  **Tutorial**{: .label .label-purple }LLM Agent Tutorial
 : - World models
     - Latent prediction
     - Video prediction
@@ -157,7 +156,27 @@ Week 6 Feb 27
 
 Week 7 Mar 6
 : **Lecture**{: .label .label-green }Continual Learning, Few-Shot Learning and Meta-Learning
-  **Seminar**{: .label .label-purple }Structure Prediction
+  **Seminar**{: .label .label-red }[Deep Learning for Structure Prediction](https://embodied-learning-vision-course.github.io/course-public/2025-spring/seminars/week07_student_dl.pdf)
+  - Continual learning
+    - Variational continual learning
+    - Knowledge distillation
+    - Memory replay
+    - Architectural expansion
+    - Associative memory
+    - Prompt learning
+    - Continual self-supervised learning
+  - Few-shot meta-learning
+    - Learning to learn
+    - Meta-optimization
+    - MAML
+    - Hypernetworks
+    - Representation and memory
+    - Continual few-shot learning
+    - Few-shot skill learning
+  - Seminar:
+    - Tanishq Sardana: Segment Anything
+    - Qing Mu: DETR: End-to-End Object Detection
+    - Owais Saad Shuja: Latent Diffusion Models
 : - Suggested readings:
     - Marsland (2002) [A Self-Organising Network that Grows when Required](https://www.sciencedirect.com/science/article/pii/S0893608002000783)
     - Kirkpatrick et al. (2016) [Overcoming catastrophic forgetting in neural networks](https://arxiv.org/abs/1612.00796)
