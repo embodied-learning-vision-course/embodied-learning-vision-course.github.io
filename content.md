@@ -96,7 +96,7 @@ Week 4 Feb 13
 
 Week 5 Feb 20
 : **Lecture**{: .label .label-green }[World Models and Forecasting](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week05_world_models.pdf)
-  **Tutorial**{: .label .label-purple }Motion Learning Tutorial
+  **Tutorial**{: .label .label-purple }[Motion Learning Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab5_motion.pdf)
 : - Representation learning
     - Energy-based models
     - Joint embedding models
