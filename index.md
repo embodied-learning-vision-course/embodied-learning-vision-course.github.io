@@ -58,7 +58,7 @@ How do we build end-to-end learning agents for embodied AI? This graduate level 
 - **Grading:** We will release the grades within a week of the submission date.
 
 ### Topic Presentation
-- **Format:** You will form a group with other students on the topic. Each of you will be asked to present on a topic for 30 minutes. It should contain content on general background but more importantly on recent research papers.
+- **Format:** You will form a group with other students on the topic. Each of you will be asked to present on a topic for 20 minutes. It should contain content on general background but more importantly on recent research papers.
 - **Panel Discussion:** After the presentation, the presenter students will form an expert panel, and lead a 30-minute discussion Q&A with the audience. The audience students are required to ask questions related to the general topic, and the presenter students will give their opinions. Participation marks will be awarded based on high quality audience questions. The panel performance will also be part of the presentation score.
 
 ### Project
