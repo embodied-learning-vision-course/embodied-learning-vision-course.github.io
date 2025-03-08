@@ -155,7 +155,7 @@ Week 6 Feb 27
 
 
 Week 7 Mar 6
-: **Lecture**{: .label .label-green }Continual Learning, Few-Shot Learning and Meta-Learning
+: **Lecture**{: .label .label-green }[Continual Learning, Few-Shot Learning and Meta-Learning](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week07_continual_fewshot_learning.pdf)
   **Seminar**{: .label .label-red }[Deep Learning for Structure Prediction](https://embodied-learning-vision-course.github.io/course-public/2025-spring/seminars/week07_student_dl.pdf)
   - Continual learning
     - Variational continual learning
