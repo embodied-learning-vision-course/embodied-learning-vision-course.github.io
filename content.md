@@ -113,11 +113,15 @@ Week 7 Mar 6
     - Qing Mu: DETR: End-to-End Object Detection
     - Owais Saad Shuja: Latent Diffusion Models
 
-
 Week 8 Mar 13
 : **Lecture**{: .label .label-green }Guest Lecture (Prof. Wei-Chiu Ma)
   
   **Seminar**{: .label .label-red }[3D Vision](https://embodied-learning-vision-course.github.io/course-public/2025-spring/seminars/week08_student_3d.pdf)
+  - Seminar:
+    - Sihang Li: Scene Coordinate Reconstruction
+    - Kanishkha Jaisankar: NeRF
+    - Denis Mbey Akola: DUSt3R
+    - Zijin Hu: Zero-1-to-3
 
 Week 9 Mar 20
 : **Seminar**{: .label .label-red }Self-Supervised Learning
