@@ -43,7 +43,7 @@ layout: page
 	- Yang et al. (2024) [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://arxiv.org/abs/2401.10891)
 	- Wang et al. (2025) [Continuous 3D Perception Model with Persistent State](https://arxiv.org/abs/2501.12387)
 
-**Module 3: Self-Supervised Representation Learning and Object Discovery
+**Module 3: Self-Supervised Representation Learning and Object Discovery**
 - Suggested readings:
 	- Sermanet et al. (2017) [Time-Contrastive Networks: Self-Supervised Learning from Video](https://arxiv.org/abs/1704.06888)
 	- Van den Oord et al. (2018) [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
