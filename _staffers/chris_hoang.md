@@ -6,4 +6,4 @@ website: https://www.chrishoang.com/
 photo: chris_hoang.jpg
 ---
 
-Office hour: Wednesday 2:00pm--3:00pm (60 5th Avenue Room 502)
+Office hour: Wednesday 1:00pm--2:00pm (Gray couches on 5th floor, 60 5th Avenue)
