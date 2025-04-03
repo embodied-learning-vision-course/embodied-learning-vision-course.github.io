@@ -127,3 +127,24 @@ Week 9 Mar 20
 : **Seminar**{: .label .label-red }Self-Supervised Learning
   
   **Seminar**{: .label .label-red }World Models
+  - Seminar:
+    - Dahye Kim: DINOv2
+    - Surbhi: IJEPA
+    - Sal Yeung: Predictable and Robust Neural Representations by Straightening
+    - Anurup Naskar: Moving Off-the-Grid
+    - Andrew Deur: DayDreamer
+    - Sidhartha Reddy Potu  : UniSim
+
+Week 11 Apr 3
+: **Seminar**{: .label .label-red }World Models
+  
+  **Seminar**{: .label .label-red }End-to-End Planning
+
+  - Seminar:
+    - Sergey Sedov: DreamerV2 and Backpropagation-based Policy Gradients
+    - Pratyaksh Prabhav Rao: DINO-WM
+    - Rooholla Khorrambakht: Diffusion for World Modeling
+    - Mrunal Sarvaiya: Differential MPC
+    - Sushma Mareddy: MP3
+    - Raman Kumar Jha: UniAD
+    - Jovita Gandhi: Embodied GPT
