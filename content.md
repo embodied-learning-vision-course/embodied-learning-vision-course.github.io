@@ -124,9 +124,7 @@ Week 8 Mar 13
     - Zijin Hu: Zero-1-to-3
 
 Week 9 Mar 20
-: **Seminar**{: .label .label-red }Self-Supervised Learning
-  
-  **Seminar**{: .label .label-red }World Models
+: **Seminar**{: .label .label-red }[Self-Supervised Learning and World Models](https://embodied-learning-vision-course.github.io/course-public/2025-spring/seminars/week09_student_ssl_wm.pdf)
   - Seminar:
     - Dahye Kim: DINOv2
     - Surbhi: IJEPA
@@ -136,9 +134,7 @@ Week 9 Mar 20
     - Sidhartha Reddy Potu  : UniSim
 
 Week 11 Apr 3
-: **Seminar**{: .label .label-red }World Models
-  
-  **Seminar**{: .label .label-red }End-to-End Planning
+: **Seminar**{: .label .label-red }[World Models and End-to-End Planning](https://embodied-learning-vision-course.github.io/course-public/2025-spring/seminars/week11_student_wm_e2e_planning.pdf)
 
   - Seminar:
     - Sergey Sedov: DreamerV2 and Backpropagation-based Policy Gradients
