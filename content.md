@@ -144,3 +144,12 @@ Week 11 Apr 3
     - Sushma Mareddy: MP3
     - Raman Kumar Jha: UniAD
     - Jovita Gandhi: Embodied GPT
+
+Week 12 Apr 10
+: **Lecture**{: .label .label-green }Guest Lecture (Dr. Andrei Bârsan)
+: **Seminar**{: .label .label-red }[Continual Learning](https://embodied-learning-vision-course.github.io/course-public/2025-spring/seminars/week12_student_continual_learning.pdf)
+
+  - Seminar:
+    - Akshay Raman: Thinking Fast and Slow for Continual Learning
+    - Amey Joshi: Continual Learning for Robotic Systems
+    - Zifan Zhao: Loss of Plasticity in Deep Continual Learning
