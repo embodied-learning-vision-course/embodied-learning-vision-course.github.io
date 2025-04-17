@@ -153,3 +153,15 @@ Week 12 Apr 10
     - Akshay Raman: Thinking Fast and Slow for Continual Learning
     - Amey Joshi: Continual Learning for Robotic Systems
     - Zifan Zhao: Loss of Plasticity in Deep Continual Learning
+
+Week 13 Apr 17
+
+: **Seminar**{: .label .label-red }[Few-Shot Learning and LLM Agents](https://embodied-learning-vision-course.github.io/course-public/2025-spring/seminars/week13_students_few_shot_llm_agent.pdf)
+
+  - Seminar:
+    - Ellen Su: Seeing the Un-Scene
+    - Xu Zhang: FSL + Diffusion
+    - Ravan Buddha: Gemini Robotics
+    - Dan Zhao: Magma
+    - Sunidhi Tandel: LEO
+    - Solim LeGris: CoALA
