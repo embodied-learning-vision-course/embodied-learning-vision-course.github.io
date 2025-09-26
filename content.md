@@ -109,59 +109,59 @@ Week 7 Mar 6
     - Continual few-shot learning
     - Few-shot skill learning
   - Seminar:
-    - Tanishq Sardana: Segment Anything
-    - Qing Mu: DETR: End-to-End Object Detection
-    - Owais Saad Shuja: Latent Diffusion Models
+    - Segment Anything
+    - DETR: End-to-End Object Detection
+    - Latent Diffusion Models
 
 Week 8 Mar 13
 : **Lecture**{: .label .label-green }Guest Lecture (Prof. Wei-Chiu Ma)
   
   **Seminar**{: .label .label-red }[3D Vision](https://embodied-learning-vision-course.github.io/course-public/2025-spring/seminars/week08_student_3d.pdf)
   - Seminar:
-    - Sihang Li: Scene Coordinate Reconstruction
-    - Kanishkha Jaisankar: NeRF
-    - Denis Mbey Akola: DUSt3R
-    - Zijin Hu: Zero-1-to-3
+    - Scene Coordinate Reconstruction
+    - NeRF
+    - DUSt3R
+    - Zero-1-to-3
 
 Week 9 Mar 20
 : **Seminar**{: .label .label-red }[Self-Supervised Learning and World Models](https://embodied-learning-vision-course.github.io/course-public/2025-spring/seminars/week09_student_ssl_wm.pdf)
   - Seminar:
-    - Dahye Kim: DINOv2
-    - Surbhi: IJEPA
-    - Sal Yeung: Predictable and Robust Neural Representations by Straightening
-    - Anurup Naskar: Moving Off-the-Grid
-    - Andrew Deur: DayDreamer
-    - Sidhartha Reddy Potu  : UniSim
+    - DINOv2
+    - IJEPA
+    - Predictable and Robust Neural Representations by Straightening
+    - Moving Off-the-Grid
+    - DayDreamer
+    - UniSim
 
 Week 11 Apr 3
 : **Seminar**{: .label .label-red }[World Models and End-to-End Planning](https://embodied-learning-vision-course.github.io/course-public/2025-spring/seminars/week11_student_wm_e2e_planning.pdf)
 
   - Seminar:
-    - Sergey Sedov: DreamerV2 and Backpropagation-based Policy Gradients
-    - Pratyaksh Prabhav Rao: DINO-WM
-    - Rooholla Khorrambakht: Diffusion for World Modeling
-    - Mrunal Sarvaiya: Differential MPC
-    - Sushma Mareddy: MP3
-    - Raman Kumar Jha: UniAD
-    - Jovita Gandhi: Embodied GPT
+    - DreamerV2 and Backpropagation-based Policy Gradients
+    - DINO-WM
+    - Diffusion for World Modeling
+    - Differential MPC
+    - MP3
+    - UniAD
+    - Embodied GPT
 
 Week 12 Apr 10
 : **Lecture**{: .label .label-green }Guest Lecture (Dr. Andrei Bârsan)
 : **Seminar**{: .label .label-red }[Continual Learning](https://embodied-learning-vision-course.github.io/course-public/2025-spring/seminars/week12_student_continual_learning.pdf)
 
   - Seminar:
-    - Akshay Raman: Thinking Fast and Slow for Continual Learning
-    - Amey Joshi: Continual Learning for Robotic Systems
-    - Zifan Zhao: Loss of Plasticity in Deep Continual Learning
+    - Thinking Fast and Slow for Continual Learning
+    - Continual Learning for Robotic Systems
+    - Loss of Plasticity in Deep Continual Learning
 
 Week 13 Apr 17
 
 : **Seminar**{: .label .label-red }[Few-Shot Learning and LLM Agents](https://embodied-learning-vision-course.github.io/course-public/2025-spring/seminars/week13_students_few_shot_llm_agent.pdf)
 
   - Seminar:
-    - Ellen Su: Seeing the Un-Scene
-    - Xu Zhang: FSL + Diffusion
-    - Ravan Buddha: Gemini Robotics
-    - Dan Zhao: Magma
-    - Sunidhi Tandel: LEO
-    - Solim LeGris: CoALA
+    - Seeing the Un-Scene
+    - FSL + Diffusion
+    - Gemini Robotics
+    - Magma
+    - LEO
+    - CoALA
