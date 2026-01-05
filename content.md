@@ -3,15 +3,14 @@ title: Calendar
 layout: page
 ---
 
-Week 1 Jan 23
-: **Lecture**{: .label .label-green }[Introduction](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week01_intro.pdf)
+Week 1 Jan 20
+: **Lecture**{: .label .label-green }[Introduction]
+<!-- (https://embodied-learning-vision-course.github.io/course-public/2026-spring/lectures/week01_intro.pdf) -->
+  <!-- **Tutorial**{: .label .label-purple }[HPC tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab1_hpc.pdf) -->
 
-  **Tutorial**{: .label .label-purple }[HPC tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab1_hpc.pdf)
+: - Introduction to embodied learning
 
-: - History of self-driving cars
-  - Introduction to embodied learning
-
-Week 2 Jan 30
+<!-- Week 2 Jan 30
 : **Lecture**{: .label .label-green }[Deep Learning for Structured Outputs](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week02_structured_learning.pdf)
   
   **Tutorial**{: .label .label-purple }[Simulator Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab2_simulator.pdf)
@@ -164,4 +163,4 @@ Week 13 Apr 17
     - Gemini Robotics
     - Magma
     - LEO
-    - CoALA
+    - CoALA -->

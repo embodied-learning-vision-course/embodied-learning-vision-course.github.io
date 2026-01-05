@@ -6,4 +6,4 @@ website: https://mengyeren.com
 photo: mengye_ren.jpg
 ---
 
-Office hour: Thursday 1:00pm--2:00pm ([Zoom](https://nyu.zoom.us/j/7323689284) or in-person at 60 5th Avenue Room 508 by appointment)
+Office hour: Thursday 1:00pm--2:00pm (in-person at 60 5th Avenue Room 508 or remote by [appointment](https://calendar.app.google/RHDnH78uDo1L6HP26))

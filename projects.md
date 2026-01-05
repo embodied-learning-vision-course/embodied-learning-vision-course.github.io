@@ -2,8 +2,9 @@
 title: Projects
 layout: page
 ---
-
 | Team ID | Project Title |
+
+<!-- | Team ID | Project Title |
 |:-------:|--------|---------|
 | 1 | Spatial Memory Augmented Reinforcement Learning |
 | 2 | Object Tracking in Egocentric Videos |
@@ -18,4 +19,4 @@ layout: page
 | 11 | LLM Guided Motion Planning: Instruction-Tuned Models for Human-Aligned Autonomous Driving |
 | 12 | Exo-Ego Transfer with Foundation Model on Object-Centric Videos |
 | 13 | Finetuning Robotic MLLMs to Enhance Language Perception Capabilities |
-| 14 | BabyGenie |
+| 14 | BabyGenie | -->
