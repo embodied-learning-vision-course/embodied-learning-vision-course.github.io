@@ -1,6 +1,7 @@
 title: ELV 2026
 description: Course Website
-theme: just-the-docs
+theme: just-the-docs                              # for local dev
+remote_theme: just-the-docs/just-the-docs@v0.10.1 # for GitHub Pages
 
 url: https://embodied-learning-vision-course.github.io
 
