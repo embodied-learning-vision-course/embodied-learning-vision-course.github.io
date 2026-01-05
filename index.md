@@ -16,6 +16,8 @@ layout: home
 ---
 
 ## Course Syllabus
+You are visiting the course webpage of DS-GA 3001.003 / CSCI-GA 3033.115 Embodied Learning and Vision (Spring 2026) offerred at NYU Data Science and Computer Science department taught by Prof. Mengye Ren.
+
 **The syllabus document can be accessed [here](https://docs.google.com/document/d/1scTi0L_z-Il-VN2OplMIwj4dy8eZuW9IjNax50S4HyU/edit?tab=t.0) (requires NYU login).**
 
 ## About
