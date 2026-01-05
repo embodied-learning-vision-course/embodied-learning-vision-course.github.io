@@ -1,0 +1,114 @@
+{"0": {
+    "doc": "Calendar",
+    "title": "Calendar",
+    "content": "Week 1 Jan 23 LectureIntroduction TutorialHPC tutorial . | History of self-driving cars | Introduction to embodied learning | . Week 2 Jan 30 LectureDeep Learning for Structured Outputs TutorialSimulator Tutorial . | Object detection and segmentation | Graphical models | Energy-based models | Autoregressive models | . Week 3 Feb 6 Lecture3D Vision, Mapping TutorialVideo Learning Tutorial . | Diffusion models . | Probabilistic foundation | Applications in embodied learning | . | 3D network designs . | Bird’s eye view networks | Point cloud networks | . | . Week 4 Feb 13 LectureSelf-Supervised Representation Learning and Object Discovery TutorialEgocentric Video Tutorial . | 3D vision . | Sensor fusion | Multi-task architecture | . | Physical grounding . | Stereo, self-supervised depth | Optical flow | Unsupervised flow, depth and pose | . | Mapping . | Soft mapping | Registration | . | Representation learning . | DAE, MAE | Energy-based models | . | . Week 5 Feb 20 LectureWorld Models and Forecasting TutorialMotion Learning Tutorial . | Representation learning . | Energy-based models | Joint embedding models | . | Object discovery . | Pseudo-labels | Slot-based models | Complex-valued autoencoders | . | World models . | Trajectory prediction | Latent sequence models | Occupancy volume prediction | . | . Week 6 Feb 27 LectureEnd-to-End Planning TutorialLLM Agent Tutorial . | World models . | Latent prediction | Video prediction | 3D volume prediction | . | End-to-end planning . | Imitation learning | Energy-based planning | Differentiable cost volume | Value-iteration networks | Backprop through planning | . | Continual learning . | Parameter regularization | . | . Week 7 Mar 6 LectureContinual Learning, Few-Shot Learning and Meta-Learning SeminarDeep Learning for Structure Prediction . | Continual learning . | Variational continual learning | Knowledge distillation | Memory replay | Architectural expansion | Associative memory | Prompt learning | Continual self-supervised learning | . | Few-shot meta-learning . | Learning to learn | Meta-optimization | MAML | Hypernetworks | Representation and memory | Continual few-shot learning | Few-shot skill learning | . | Seminar: . | Segment Anything | DETR: End-to-End Object Detection | Latent Diffusion Models | . | . Week 8 Mar 13 LectureGuest Lecture (Prof. Wei-Chiu Ma) Seminar3D Vision . | Seminar: . | Scene Coordinate Reconstruction | NeRF | DUSt3R | Zero-1-to-3 | . | . Week 9 Mar 20 SeminarSelf-Supervised Learning and World Models . | Seminar: . | DINOv2 | IJEPA | Predictable and Robust Neural Representations by Straightening | Moving Off-the-Grid | DayDreamer | UniSim | . | . Week 11 Apr 3 SeminarWorld Models and End-to-End Planning . | Seminar: . | DreamerV2 and Backpropagation-based Policy Gradients | DINO-WM | Diffusion for World Modeling | Differential MPC | MP3 | UniAD | Embodied GPT | . | . Week 12 Apr 10 LectureGuest Lecture (Dr. Andrei Bârsan) SeminarContinual Learning . | Seminar: . | Thinking Fast and Slow for Continual Learning | Continual Learning for Robotic Systems | Loss of Plasticity in Deep Continual Learning | . | . Week 13 Apr 17 SeminarFew-Shot Learning and LLM Agents . | Seminar: . | Seeing the Un-Scene | FSL + Diffusion | Gemini Robotics | Magma | LEO | CoALA | . | . ",
+    "url": "/2025/content.html",
+    
+    "relUrl": "/content.html"
+  },"1": {
+    "doc": "About",
+    "title": "DS-GA.3001 Advanced Topics in Embodied Learning and Vision (Spring 2025)",
+    "content": " ",
+    "url": "/2025/#ds-ga3001-advanced-topics-in-embodied-learning-and-vision-spring-2025",
+    
+    "relUrl": "/#ds-ga3001-advanced-topics-in-embodied-learning-and-vision-spring-2025"
+  },"2": {
+    "doc": "About",
+    "title": "Table of contents",
+    "content": ". | DS-GA.3001 Advanced Topics in Embodied Learning and Vision (Spring 2025) . | Course Syllabus | About | Recommended Prerequisites | Logistics | Grading | Course Work . | Paper Reviews | Topic Presentation | Project | Late Policy | . | Academic Integrity | GenAI Policy | . | . ",
+    "url": "/2025/#table-of-contents",
+    
+    "relUrl": "/#table-of-contents"
+  },"3": {
+    "doc": "About",
+    "title": "Course Syllabus",
+    "content": "The syllabus document can be accessed here (requires NYU login). ",
+    "url": "/2025/#course-syllabus",
+    
+    "relUrl": "/#course-syllabus"
+  },"4": {
+    "doc": "About",
+    "title": "About",
+    "content": "How do we build end-to-end learning agents for embodied AI? This graduate level course covers advanced topics in embodied visual learning, perception and planning, with applications to robotics and self-driving. Topics include deep learning, computer vision, 3D perception, unsupervised 3D learning, self-supervised representation learning, continual learning, foundation model agents, etc. The goals of the course are: . | Understand and apply computer vision and deep learning in the context of embodied agent learning by applying spatial geometric priors, model inductive biases, design multi-task network architectures, and embodied foundation models. | Learn to formulate a variety of computer vision and robotics problems using deep learning tools. | Develop a deep understanding of supervised and self-supervised representation learning for downstream perception and planning tasks. | Develop hands-on skill of implementing embodied learning systems in simulator environments. | . ",
+    "url": "/2025/",
+    
+    "relUrl": "/"
+  },"5": {
+    "doc": "About",
+    "title": "Recommended Prerequisites",
+    "content": ". | Machine Learning (DS-GA 1003 or CSCI-GA 2565) | Computer Vision (CSCI-GA 2271) | Deep Learning (DS-GA 1008) | Proficiency in Python Programming | . ",
+    "url": "/2025/#recommended-prerequisites",
+    
+    "relUrl": "/#recommended-prerequisites"
+  },"6": {
+    "doc": "About",
+    "title": "Logistics",
+    "content": ". | Lectures: Thursday 4:55pm - 7:35pm (including 1hr recitation) | Location 19 West 4th St. Room 102 | Office Hours: Thursday 1-2pm | Communication: We will use Campuswire as our main communication tool for announcements and answering questions related to the lectures, assignments, and projects. The registration link is available on Brightspace. | . ",
+    "url": "/2025/#logistics",
+    
+    "relUrl": "/#logistics"
+  },"7": {
+    "doc": "About",
+    "title": "Grading",
+    "content": ". | In-Class Participation (10%): Marks will be given on the amount of in-class participation during the discussion and Q&amp;A period. | Paper Review (15%): Students need to submit a paper review on one of the selected readings every week. | Topic Presentation (30%): Marks will be given on the prepared content, depth, analysis, and presentation quality. | Project (45%): . | Project Proposal (10%): Project proposal is due in the 6th week. Student groups will need to schedule a mandatory office hour to discuss the project with the instructor. | Report (25%): Project report is due in the final week. | Presentation (10%): Project presentations are conducted in the final two weeks. | . | . ",
+    "url": "/2025/#grading",
+    
+    "relUrl": "/#grading"
+  },"8": {
+    "doc": "About",
+    "title": "Course Work",
+    "content": "Paper Reviews . | Submission: You need to submit a paper review following the provided template every week on Gradescope. | Paper Selection: You may choose a recent paper (&lt;3 years) on the designated topic. You may choose one paper from the suggested reading list. If you choose your own paper, you should choose from reputable venues such as NeurIPS, ICML, ICLR, AISTATS, CoLLAs for ML papers, CVPR, ICCV, ECCV for CV papers, and ICRA, RSS, CoRL, IROS for robotics papers. You should choose papers that have a potential high impact. | Grading: We will release the grades within a week of the submission date. | . Topic Presentation . | Format: You will form a group with other students on the topic. Each of you will be asked to present on a topic for 20 minutes. It should contain content on general background but more importantly on recent research papers. | Panel Discussion: After the presentation, the presenter students will form an expert panel, and lead a 30-minute discussion Q&amp;A with the audience. The audience students are required to ask questions related to the general topic, and the presenter students will give their opinions. Participation marks will be awarded based on high quality audience questions. The panel performance will also be part of the presentation score. | . Project . | Goal: The goal of the final project is to let students develop hands-on skills of implementing embodied learning systems for concrete real-world tasks such as toy embodied environments, long-form egocentric video understanding, self-driving, robotic navigation and manipulation. | Group: You are asked to form a group of two upon the beginning of the semester. | Project Consultation: To guide the project throughout the semester, the students are required to complete project consultations. They need to meet with the instructor and the TAs at least once each. See key dates below on when to meet with the instruction team the latest in the semester. | Project Presentation: You can choose to present on Week 14 or Week 15. The groups who present on Week 14 will get a bonus of 2% added to their final grade. Time duration is 25 minutes + 5 min Q&amp;A. | . Late Policy . You have 4 late days in total for any deliverables. If your deliverable is a team effort then it would cost late days from each team member. You can use a maximum of 2 late days on each deliverable. If it is beyond 2 late days or you have used up your late days, then there will be a 20% penalty on the marks each day. ",
+    "url": "/2025/#course-work",
+    
+    "relUrl": "/#course-work"
+  },"9": {
+    "doc": "About",
+    "title": "Academic Integrity",
+    "content": "Work you submit should be your own. Please consult the CAS academic integrity policy for more information: http://cas.nyu.edu/page/academicintegrity. Penalties for violations of academic integrity may include failure of the course, suspension from the University, or even expulsion. ",
+    "url": "/2025/#academic-integrity",
+    
+    "relUrl": "/#academic-integrity"
+  },"10": {
+    "doc": "About",
+    "title": "GenAI Policy",
+    "content": "AI may not be used in weekly paper reviews and paper presentations. AI may be used towards coding assistance and report writing assistance in the course project. However, if the use of AI can still impact the grade if the report contains poor writings and non-factual statements. ",
+    "url": "/2025/#genai-policy",
+    
+    "relUrl": "/#genai-policy"
+  },"11": {
+    "doc": "Projects",
+    "title": "Projects",
+    "content": "| Team ID | Project Title | . | 1 | Spatial Memory Augmented Reinforcement Learning | . | 2 | Object Tracking in Egocentric Videos | . | 3 | Enhancing Visual-Motor Policies with Surface Normal Estimation | . | 4 | Diffusion Model Predictive Control | . | 5 | GAM: Graph-Augmented Memory for Egocentric Video Understanding | . | 6 | Exploring Data-Efficient World Modeling and Representation Learning Based On Equivariant Architectures and Foundational 3D Models | . | 7 | Continual Reinforcement Learning for Autonomous Robotic Tasks | . | 8 | Adapting World and Human Action Models for Spatial Navigation | . | 9 | Enhancing Information Retrieval of World Models by Augmenting Latents | . | 10 | Self-Supervised End-to-End RL for Autonomous Driving in Simulation | . | 11 | LLM Guided Motion Planning: Instruction-Tuned Models for Human-Aligned Autonomous Driving | . | 12 | Exo-Ego Transfer with Foundation Model on Object-Centric Videos | . | 13 | Finetuning Robotic MLLMs to Enhance Language Perception Capabilities | . | 14 | BabyGenie | . ",
+    "url": "/2025/projects.html",
+    
+    "relUrl": "/projects.html"
+  },"12": {
+    "doc": "Readings",
+    "title": "Readings",
+    "content": "Module 0: Introduction . | Turing (1950) Computing Machinery and Intelligence | Pomerleau (1988) ALVINN: An Autonomous Land Vehicle in a Neural Network | [Video] History Channel 1998 : Driverless Car Technology Overview at Carnegie Mellon University | Smith &amp; Gasser (2005) The Development of Embodied Cognition: Six Lessons from Babies | . Module 1: Deep Learning for Structured Outputs . | Suggested readings . | LeCun (2006) A Tutorial on Energy-Based Learning | Girshick et al. (2013) Rich feature hierarchies for accurate object detection and semantic segmentation | Long et al. (2014) Fully Convolutional Networks for Semantic Segmentation | Zheng et al. (2015) Conditional Random Fields as Recurrent Neural Networks | Chen et al. (2016) DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs | Kingma &amp; Dhariwal (2018) Glow: Generative Flow with Invertible 1x1 Convolutions | Ho et al. (2020) Denoising Diffusion Probabilistic Models | . | Additional readings . | Carion et al. (2020) End-to-End Object Detection with Transformers | Kamath et al. (2021) MDETR – Modulated Detection for End-to-End Multi-Modal Understanding | Cheng et al. (2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation | Rombach et al. (2022) High-Resolution Image Synthesis with Latent Diffusion Models | Kirillov et al. (2023) Segment Anything | Bai et al. (2023) Sequential Modeling Enables Scalable Learning for Large Vision Models | Chi et al. (2023) Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | . | . Module 2: 3D Vision and Mapping . | Suggested readings: . | Fischer et al. (2015) FlowNet: Learning Optical Flow with Convolutional Networks | Godard et al. (2016) Unsupervised Monocular Depth Estimation with Left-Right Consistency | Qi et al. (2016) PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation | Tamar et al. (2016) Value Iteration Networks | Parisotto et al. (2017) Neural Map: Structured Memory for Deep Reinforcement Learning | Gupta et al. (2017) Cognitive Mapping and Planning for Visual Navigation | . | Additional readings: . | Chaplot et al. (2020) Neural Topological SLAM for Visual Navigation | Huang et al. (2022) FlowFormer: A Transformer Architecture for Optical Flow | Wu et al. (2023) Policy Pre-training for Autonomous Driving via Self-supervised Geometric Modeling | Sun et al. (2023) Dynamo-Depth: Fixing Unsupervised Depth Estimation for Dynamical Scenes | Yang et al. (2024) Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data | Wang et al. (2025) Continuous 3D Perception Model with Persistent State | . | . Module 3: Self-Supervised Representation Learning and Object Discovery . | Suggested readings: . | Sermanet et al. (2017) Time-Contrastive Networks: Self-Supervised Learning from Video | Van den Oord et al. (2018) Representation Learning with Contrastive Predictive Coding | Wu et al. (2018) Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination | Chen et al. (2020) A Simple Framework for Contrastive Learning of Visual Representations | Grill et al. (2020) Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning | He et al. (2021) Masked Autoencoders Are Scalable Vision Learners | . | Additional readings: . | Weinzaepfel et al. (2022) CroCo v2: Improved Cross-view Completion Pre-training for Stereo Matching and Optical Flow | Wang et al. (2022) Self-Supervised Transformers for Unsupervised Object Discovery using Normalized Cut | Seo et al. (2022) Masked World Models for Visual Control | Venkataramanan et al. (2023) Is ImageNet Worth 1 Video? Learning Strong Image Encoders from 1 Long Unlabelled Video | van Steenkiste et al. (2024) Moving Off-the-Grid: Scene-Grounded Video Representations | Cui et al. (2024) DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control | Wang et al. (2024) PooDLe: Pooled and Dense Self-Supervised Learning from Naturalistic Videos | . | . Module 4: World Models and End-to-End Planning . | Suggested readings: . | Ross et al. (2011) A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning | Kalchbrenner et al. (2016) Video Pixel Networks | Ha and Schmidhuber (2018) World Models | Haarnoja et al. (2018) Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor | Srinivas et al. (2018) Universal Planning Networks | Sukhbaatar et al. (2018) Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play | Amos et al. (2018) Differentiable MPC for End-to-end Planning and Control | Hafner et al. (2019) Dream to Control: Learning Behaviors by Latent Imagination | Zeng et al. (2019) End-to-end Interpretable Neural Motion Planner | . | Additional readings: . | Liang et al. (2020) Learning Lane Graph Representations for Motion Forecasting | Casas et al. (2021) MP3: A Unified Model to Map, Perceive, Predict and Plan | Chaplot et al. (2021) Differentiable Spatial Planning using Transformers | Wu et al. (2022) DayDreamer: World Models for Physical Robot Learning | Yu et al. (2022) MAGVIT: Masked Generative Video Transformer | Hu et al. (2022) Planning-oriented Autonomous Driving | Dinev et al. (2022) Differentiable Optimal Control via Differential Dynamic Programming | Hafner et al. (2023) Mastering Diverse Domains through World Models | Hansen et al. (2023) TD-MPC2: Scalable, Robust World Models for Continuous Control | Hu et al. (2023) GAIA-1: A Generative World Model for Autonomous Driving | Chi et al. (2023) Diffusion Policy: Visuomotor Policy Learning via Action Diffusion | Zhang et al. (2024) Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion | Casas et al. (2024) DeTra: A Unified Model for Object Detection and Trajectory Forecasting | Bruce et al. (2024) Genie: Generative Interactive Environments | Psenka et al. (2024) Learning a Diffusion Model Policy from Rewards via Q-Score Matching | . | . Module 5: Continual Learning and Meta-Learning . | Suggested readings: . | Marsland (2002) A Self-Organising Network that Grows when Required | Kirkpatrick et al. (2016) Overcoming catastrophic forgetting in neural networks | Rebuffi et al. (2016) iCaRL: Incremental Classifier and Representation Learning | Yoon et al. (2017) Lifelong Learning with Dynamically Expandable Networks | Nguyen et al. (2017) Variational Continual Learning | Van de Ven et al. (2020) Brain-Inspired Replay for Continual Learning with Artificial Neural Networks | Fei-Fei &amp; Fergus (2006) One-Shot Learning of Object Categories | Lake et al. (2011) One-Shot Learning of Simple Visual Concepts | Snell et al. (2017) Prototypical Networks for Few-shot Learning | Finn et al. (2017) Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks | James et al. (2018) Task-Embedded Control Networks for Few-Shot Imitation Learning | Brown et al. (2020) Language Models are Few-Shot Learners | Chen et al. (2021) Exploring Simple Meta-Learning for Few-Shot Learning | . | Additional readings: . | Javed &amp; White (2019) Meta-Learning Representations for Continual Learning | Lake (2019) Compositional Generalization through Meta Sequence-to-Sequence Learning | Dohare et al. (2021) Continual Backprop: Stochastic Gradient Descent with Persistent Randomness | Wang et al. (2021) Learning to Prompt for Continual Learning | Ren et al. (2021) Wandering Within a World: Online Contextualized Few-Shot Learning | Alayrac et al. (2022) Flamingo: a Visual Language Model for Few-Shot Learning | Song et al. (2022) LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models | Powers et al. (2023) Evaluating Continual Learning on a Home Robot | Zhang et al. (2023) A Novel Visual Question Answering Continual Learning Setting | Lee et al. (2023) STELLA: Continual Audio-Video Pre-training with Spatio-Temporal Localized Alignment | Majumder et al. (2023) CLIN: A Continually Learning Language Agent for Rapid Task Adaptation and Generalization | . | . Module 6: LLM Agents . | Suggested readings: . | Langley et al. (2009) Cognitive architectures: Research issues and challenges | Misra et al. (2017) Mapping Instructions and Visual Observations to Actions with Reinforcement Learning | Andreson et al. (2018) Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments | Andreas (2022) Language Models as Agent Models | Sridhar et al. (2023) Cognitive Neuroscience Perspective on Memory: Overview and Summary | . | Additional readings: . | Anh et al. (2022) Do As I Can, Not As I Say: Grounding Language in Robotic Affordances | Sumers et al. (2023) Cognitive Architectures for Language Agents | Schick et al. (2023) Language Models Can Teach Themselves to Use Tools | Rana et al. (2023) SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning | Kim et al. (2024) ReALFRED: An Embodied Instruction Following Benchmark in Photo-Realistic Environments | Li et al. (2024) Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making | . | . ",
+    "url": "/2025/readings.html",
+    
+    "relUrl": "/readings.html"
+  },"13": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": " ",
+    "url": "/2025/staff.html",
+    
+    "relUrl": "/staff.html"
+  },"14": {
+    "doc": "Staff",
+    "title": "Instructor",
+    "content": "Mengye Ren . mengye@nyu.edu . Office hour: Thursday 1:00pm–2:00pm (Zoom or in-person at 60 5th Avenue Room 508 by appointment) . ",
+    "url": "/2025/staff.html#instructor",
+    
+    "relUrl": "/staff.html#instructor"
+  },"15": {
+    "doc": "Staff",
+    "title": "Teaching Assistants",
+    "content": "Chris Hoang . ch3451@nyu.edu . Office hour: Wednesday 1:00pm–2:00pm (Gray couches on 5th floor, 60 5th Avenue) . Ying Wang . yw3076@nyu.edu . Office hour: Thursday 2:00pm–3:00pm (60 5th Avenue Room 763) . ",
+    "url": "/2025/staff.html#teaching-assistants",
+    
+    "relUrl": "/staff.html#teaching-assistants"
+  }
+}

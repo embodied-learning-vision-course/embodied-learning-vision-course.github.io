@@ -3,7 +3,7 @@ title: About
 layout: home
 ---
 
-# DS-GA.3001 Advanced Topics in Embodied Learning and Vision (Spring 2025)
+# DS-GA 3001.003 / CSCI-GA 3033.115 Embodied Learning and Vision (Spring 2026)
 
 {:.no_toc}
 
