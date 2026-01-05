@@ -1,8 +1,11 @@
-title: DS-GA.3001
+title: ELV 2026
 description: Course Website
 theme: just-the-docs
 
 url: https://embodied-learning-vision-course.github.io
+
+sass:
+  quiet_deps: true
 
 aux_links:
   
