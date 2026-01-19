@@ -1,23 +1,30 @@
-# Local Development with Docker
+# Local Development
 
-## Quick Start
+## ⚠️ Local Build Issues on macOS
 
+The `eventmachine` gem has compilation issues on macOS. Use GitHub Actions for builds.
+
+## Recommended: Use GitHub Actions
+
+Push your changes to the `main` or `2026` branch and GitHub Actions will automatically build and deploy:
+
+```bash
+git add .
+git commit -m "Your changes"
+git push origin 2026
+```
+
+View the build at: https://github.com/embodied-learning-vision-course/embodied-learning-vision-course.github.io/actions
+
+## Alternative: Docker (Has Issues)
+
+**Note**: Docker has platform compatibility issues on arm64 Macs. Jekyll builds work on GitHub Actions (Linux).
+
+If you want to try anyway:
 ```bash
 docker-compose up
 ```
 
-Site will be at http://localhost:4000 with live reload.
+## GitHub Pages Deployment
 
-## Manual Docker Command
-
-```bash
-docker run --rm -v "$PWD:/srv/jekyll" -p 4000:4000 jekyll/jekyll:4.4.1 jekyll serve --livereload --force_polling
-```
-
-## Why Docker?
-
-The `eventmachine` gem (needed for Jekyll's live-reload) doesn't compile on macOS due to missing C++ headers. Docker uses Linux where it works fine.
-
-## GitHub Actions
-
-Pushes to `main` or `2026` branches automatically build and deploy via GitHub Actions.
+The site auto-deploys when you push to `main` or `2026` branches.
