@@ -4,16 +4,15 @@ layout: page
 ---
 
 Week 1 Jan 20
-: **Lecture**{: .label .label-green }[Introduction]
-<!-- (https://embodied-learning-vision-course.github.io/course-public/2026-spring/lectures/week01_intro.pdf) -->
-  <!-- **Tutorial**{: .label .label-purple }[HPC tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab1_hpc.pdf) -->
+: **Lecture**{: .label .label-green }[Introduction](https://elvcourse.org/course-public/2026-spring/lectures/week01_intro.pdf)
+  <!-- **Tutorial**{: .label .label-purple }[HPC tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab1_hpc.pdf) -->
 
 : - Introduction to embodied learning
 
 <!-- Week 2 Jan 30
-: **Lecture**{: .label .label-green }[Deep Learning for Structured Outputs](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week02_structured_learning.pdf)
+: **Lecture**{: .label .label-green }[Deep Learning for Structured Outputs](https://elvcourse.org/course-public/2026-spring/lectures/week02_structured_learning.pdf)
   
-  **Tutorial**{: .label .label-purple }[Simulator Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab2_simulator.pdf)
+  **Tutorial**{: .label .label-purple }[Simulator Tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab2_simulator.pdf)
 
 : - Object detection and segmentation
   - Graphical models
@@ -21,9 +20,9 @@ Week 1 Jan 20
   - Autoregressive models
 
 Week 3 Feb 6
-: **Lecture**{: .label .label-green }[3D Vision, Mapping](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week03_3d_mapping.pdf)
+: **Lecture**{: .label .label-green }[3D Vision, Mapping](https://elvcourse.org/course-public/2026-spring/lectures/week03_3d_mapping.pdf)
   
-  **Tutorial**{: .label .label-purple }[Video Learning Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab3_video_learning.pdf)
+  **Tutorial**{: .label .label-purple }[Video Learning Tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab3_video_learning.pdf)
 
 : - Diffusion models
     - Probabilistic foundation
@@ -33,9 +32,9 @@ Week 3 Feb 6
     - Point cloud networks
 
 Week 4 Feb 13
-: **Lecture**{: .label .label-green }[Self-Supervised Representation Learning and Object Discovery](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week04_ssl.pdf)
+: **Lecture**{: .label .label-green }[Self-Supervised Representation Learning and Object Discovery](https://elvcourse.org/course-public/2026-spring/lectures/week04_ssl.pdf)
   
-  **Tutorial**{: .label .label-purple }[Egocentric Video Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab4_ego4d.pdf)
+  **Tutorial**{: .label .label-purple }[Egocentric Video Tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab4_ego4d.pdf)
 
 : - 3D vision
     - Sensor fusion
@@ -52,9 +51,9 @@ Week 4 Feb 13
     - Energy-based models
 
 Week 5 Feb 20
-: **Lecture**{: .label .label-green }[World Models and Forecasting](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week05_world_models.pdf)
+: **Lecture**{: .label .label-green }[World Models and Forecasting](https://elvcourse.org/course-public/2026-spring/lectures/week05_world_models.pdf)
   
-  **Tutorial**{: .label .label-purple }[Motion Learning Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab5_motion.pdf)
+  **Tutorial**{: .label .label-purple }[Motion Learning Tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab5_motion.pdf)
 
 : - Representation learning
     - Energy-based models
@@ -69,9 +68,9 @@ Week 5 Feb 20
     - Occupancy volume prediction
 
 Week 6 Feb 27
-: **Lecture**{: .label .label-green }[End-to-End Planning](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week06_planning.pdf)
+: **Lecture**{: .label .label-green }[End-to-End Planning](https://elvcourse.org/course-public/2026-spring/lectures/week06_planning.pdf)
   
-  **Tutorial**{: .label .label-purple }[LLM Agent Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab6_LLMAgent.pdf)
+  **Tutorial**{: .label .label-purple }[LLM Agent Tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab6_LLMAgent.pdf)
 
 : - World models
     - Latent prediction
@@ -87,9 +86,9 @@ Week 6 Feb 27
     - Parameter regularization
 
 Week 7 Mar 6
-: **Lecture**{: .label .label-green }[Continual Learning, Few-Shot Learning and Meta-Learning](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week07_continual_fewshot_learning.pdf)
+: **Lecture**{: .label .label-green }[Continual Learning, Few-Shot Learning and Meta-Learning](https://elvcourse.org/course-public/2026-spring/lectures/week07_continual_fewshot_learning.pdf)
   
-  **Seminar**{: .label .label-red }[Deep Learning for Structure Prediction](https://embodied-learning-vision-course.github.io/course-public/2025-spring/seminars/week07_student_dl.pdf)
+  **Seminar**{: .label .label-red }[Deep Learning for Structure Prediction](https://elvcourse.org/course-public/2026-spring/seminars/week07_student_dl.pdf)
 
   - Continual learning
     - Variational continual learning
@@ -115,7 +114,7 @@ Week 7 Mar 6
 Week 8 Mar 13
 : **Lecture**{: .label .label-green }Guest Lecture (Prof. Wei-Chiu Ma)
   
-  **Seminar**{: .label .label-red }[3D Vision](https://embodied-learning-vision-course.github.io/course-public/2025-spring/seminars/week08_student_3d.pdf)
+  **Seminar**{: .label .label-red }[3D Vision](https://elvcourse.org/course-public/2026-spring/seminars/week08_student_3d.pdf)
   - Seminar:
     - Scene Coordinate Reconstruction
     - NeRF
@@ -123,7 +122,7 @@ Week 8 Mar 13
     - Zero-1-to-3
 
 Week 9 Mar 20
-: **Seminar**{: .label .label-red }[Self-Supervised Learning and World Models](https://embodied-learning-vision-course.github.io/course-public/2025-spring/seminars/week09_student_ssl_wm.pdf)
+: **Seminar**{: .label .label-red }[Self-Supervised Learning and World Models](https://elvcourse.org/course-public/2026-spring/seminars/week09_student_ssl_wm.pdf)
   - Seminar:
     - DINOv2
     - IJEPA
@@ -133,7 +132,7 @@ Week 9 Mar 20
     - UniSim
 
 Week 11 Apr 3
-: **Seminar**{: .label .label-red }[World Models and End-to-End Planning](https://embodied-learning-vision-course.github.io/course-public/2025-spring/seminars/week11_student_wm_e2e_planning.pdf)
+: **Seminar**{: .label .label-red }[World Models and End-to-End Planning](https://elvcourse.org/course-public/2026-spring/seminars/week11_student_wm_e2e_planning.pdf)
 
   - Seminar:
     - DreamerV2 and Backpropagation-based Policy Gradients
@@ -146,7 +145,7 @@ Week 11 Apr 3
 
 Week 12 Apr 10
 : **Lecture**{: .label .label-green }Guest Lecture (Dr. Andrei Bârsan)
-: **Seminar**{: .label .label-red }[Continual Learning](https://embodied-learning-vision-course.github.io/course-public/2025-spring/seminars/week12_student_continual_learning.pdf)
+: **Seminar**{: .label .label-red }[Continual Learning](https://elvcourse.org/course-public/2026-spring/seminars/week12_student_continual_learning.pdf)
 
   - Seminar:
     - Thinking Fast and Slow for Continual Learning
@@ -155,7 +154,7 @@ Week 12 Apr 10
 
 Week 13 Apr 17
 
-: **Seminar**{: .label .label-red }[Few-Shot Learning and LLM Agents](https://embodied-learning-vision-course.github.io/course-public/2025-spring/seminars/week13_students_few_shot_llm_agent.pdf)
+: **Seminar**{: .label .label-red }[Few-Shot Learning and LLM Agents](https://elvcourse.org/course-public/2026-spring/seminars/week13_students_few_shot_llm_agent.pdf)
 
   - Seminar:
     - Seeing the Un-Scene
