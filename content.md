@@ -13,6 +13,10 @@ Week 2 Jan 30
 : **Lecture**{: .label .label-green }[Deep Learning for Structured Outputs](https://embodied-learning-vision-course.github.io/course-public/2026-spring/lectures/week02_deep_learning.pdf)
   
   <!-- **Tutorial**{: .label .label-purple }[Simulator Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab2_simulator.pdf) -->
+: - Deep learning for structured outputs
+  - Graphical models, energy-based models
+  - Autoregressive models
+  - Normalizing flows
 
 <!-- Week 3 Feb 6
 : **Lecture**{: .label .label-green }[3D Vision, Mapping](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week03_3d_mapping.pdf)
