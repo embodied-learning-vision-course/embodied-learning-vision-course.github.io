@@ -9,18 +9,14 @@ Week 1 Jan 20
 
 : - Introduction to embodied learning
 
-<!-- Week 2 Jan 30
-: **Lecture**{: .label .label-green }[Deep Learning for Structured Outputs](https://elvcourse.org/course-public/2026-spring/lectures/week02_structured_learning.pdf)
+Week 2 Jan 30
+: **Lecture**{: .label .label-green }[Deep Learning for Structured Outputs](https://embodied-learning-vision-course.github.io/course-public/2026-spring/lectures/week02_deep_learning.pdf)
   
-  **Tutorial**{: .label .label-purple }[Simulator Tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab2_simulator.pdf)
+  <!-- **Tutorial**{: .label .label-purple }[Simulator Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab2_simulator.pdf) -->
 
-: - Object detection and segmentation
-  - Graphical models
-  - Energy-based models
-  - Autoregressive models
-
-Week 3 Feb 6
-: **Lecture**{: .label .label-green }[3D Vision, Mapping](https://elvcourse.org/course-public/2026-spring/lectures/week03_3d_mapping.pdf)
+<!-- Week 3 Feb 6
+: **Lecture**{: .label .label-green }[3D Vision, Mapping](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week03_3d_mapping.pdf)
+>>>>>>> 7e1ac58 (merge)
   
   **Tutorial**{: .label .label-purple }[Video Learning Tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab3_video_learning.pdf)
 
