@@ -39,7 +39,7 @@ How do we build end-to-end learning agents for embodied AI? This graduate level 
 
 ## Logistics
 - Lectures: Tuesday 2:45pm - 5:45pm (including 1hr recitation) 
-- Location 12 Waverly Pl Room L120
+- Location 194 Mercer St Room 206
 - Office Hours: See [Staff](/staff) page.
 - Communication: We will use Campuswire as our main communication tool for announcements and answering questions related to the lectures, assignments, and projects. The registration link is available on Brightspace.
 
