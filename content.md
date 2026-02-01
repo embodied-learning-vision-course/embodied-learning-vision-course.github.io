@@ -9,7 +9,7 @@ Week 1 Jan 20
 
 : - Introduction to embodied learning
 
-Week 2 Jan 30
+Week 2 Jan 27
 : **Lecture**{: .label .label-green }[Deep Learning for Structured Outputs](https://embodied-learning-vision-course.github.io/course-public/2026-spring/lectures/week02_deep_learning.pdf)
   
   <!-- **Tutorial**{: .label .label-purple }[Simulator Tutorial](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lab/lab2_simulator.pdf) -->
