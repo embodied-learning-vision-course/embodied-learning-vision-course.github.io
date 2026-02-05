@@ -18,11 +18,10 @@ Week 2 Jan 27
   - Autoregressive models
   - Normalizing flows
 
-<!-- Week 3 Feb 6
-: **Lecture**{: .label .label-green }[3D Vision, Mapping](https://embodied-learning-vision-course.github.io/course-public/2025-spring/lectures/week03_3d_mapping.pdf)
->>>>>>> 7e1ac58 (merge)
+Week 3 Feb 6
+: **Lecture**{: .label .label-green }[3D Vision, Mapping](https://embodied-learning-vision-course.github.io/course-public/2026-spring/lectures/week03_3d_vision.pdf)
   
-  **Tutorial**{: .label .label-purple }[Video Learning Tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab3_video_learning.pdf)
+  <!-- **Tutorial**{: .label .label-purple }[Video Learning Tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab3_video_learning.pdf) -->
 
 : - Diffusion models
     - Probabilistic foundation
@@ -30,7 +29,13 @@ Week 2 Jan 27
   - 3D network designs
     - Bird's eye view networks
     - Point cloud networks
+    - Equivariance
+    - Sensor fusion
+    - Multi-task architecture
+  - Physical grounding
+    - Stereo, self-supervised depth
 
+<!--
 Week 4 Feb 13
 : **Lecture**{: .label .label-green }[Self-Supervised Representation Learning and Object Discovery](https://elvcourse.org/course-public/2026-spring/lectures/week04_ssl.pdf)
   
@@ -162,4 +167,5 @@ Week 13 Apr 17
     - Gemini Robotics
     - Magma
     - LEO
-    - CoALA -->
+    - CoALA
+    -->
