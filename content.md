@@ -22,7 +22,7 @@ Week 2 Jan 27
 Week 3 Feb 3
 : **Lecture**{: .label .label-green }[3D Vision, Mapping](https://embodied-learning-vision-course.github.io/course-public/2026-spring/lectures/week03_3d_vision.pdf)
   
-  **Tutorial**{: .label .label-purple } Simulator Tutorial [[Slides](https://elvcourse.org/course-public/2026-spring/labs/lab2_embodied_sim.pdf)] [[Code](https://github.com/embodied-learning-vision-course/course-public/tree/main/2026-spring/labs/lab2)]
+  **Tutorial**{: .label .label-purple }Embodied Simulators [[Slides](https://elvcourse.org/course-public/2026-spring/labs/lab2_embodied_sim.pdf)] [[Code](https://github.com/embodied-learning-vision-course/course-public/tree/main/2026-spring/labs/lab2)]
   <!-- **Tutorial**{: .label .label-purple }[Video Learning Tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab3_video_learning.pdf) -->
 
 : - Diffusion models
