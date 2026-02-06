@@ -21,7 +21,7 @@ Past year website: [Spring 2025](/2025).
 
 ## Course Syllabus
 
-**The syllabus document can be accessed here (TBD) (requires NYU login).**
+**The syllabus document can be accessed [here](https://docs.google.com/document/d/16HV86GV5Q_YJknDv-qyXeCzC5sIl-sa3OxeLbBesIFY/edit?usp=sharing) (requires NYU login).**
 
 ## About
 
