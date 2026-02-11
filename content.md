@@ -23,7 +23,6 @@ Week 3 Feb 3
 : **Lecture**{: .label .label-green }[3D Vision, Mapping](https://embodied-learning-vision-course.github.io/course-public/2026-spring/lectures/week03_3d_vision.pdf)
   
   **Tutorial**{: .label .label-purple }Embodied Simulators [[Slides](https://elvcourse.org/course-public/2026-spring/labs/lab2_embodied_sim.pdf)] [[Code](https://github.com/embodied-learning-vision-course/course-public/tree/main/2026-spring/labs/lab2)]
-  <!-- **Tutorial**{: .label .label-purple }[Video Learning Tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab3_video_learning.pdf) -->
 
 : - Diffusion models
     - Probabilistic foundation
@@ -37,16 +36,12 @@ Week 3 Feb 3
   - Physical grounding
     - Stereo, self-supervised depth
 
-<!--
 Week 4 Feb 13
-: **Lecture**{: .label .label-green }[Self-Supervised Representation Learning and Object Discovery](https://elvcourse.org/course-public/2026-spring/lectures/week04_ssl.pdf)
+: **Lecture**{: .label .label-green }[Self-Supervised Representation Learning and Object Discovery](https://elvcourse.org/course-public/2026-spring/lectures/week04_ssl_scribble.pdf)
   
-  **Tutorial**{: .label .label-purple }[Egocentric Video Tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab4_ego4d.pdf)
+  <!-- **Tutorial**{: .label .label-purple }[Egocentric Video Tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab4_ego4d.pdf) -->
 
-: - 3D vision
-    - Sensor fusion
-    - Multi-task architecture
-  - Physical grounding
+: - Physical grounding
     - Stereo, self-supervised depth
     - Optical flow
     - Unsupervised flow, depth and pose
@@ -56,7 +51,9 @@ Week 4 Feb 13
   - Representation learning
     - DAE, MAE
     - Energy-based models
+    - SSL, JEPA
 
+<!--
 Week 5 Feb 20
 : **Lecture**{: .label .label-green }[World Models and Forecasting](https://elvcourse.org/course-public/2026-spring/lectures/week05_world_models.pdf)
   
