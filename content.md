@@ -38,7 +38,10 @@ Week 3 Feb 3
 
 Week 4 Feb 13
 : **Lecture**{: .label .label-green }[Self-Supervised Representation Learning and Object Discovery](https://elvcourse.org/course-public/2026-spring/lectures/week04_ssl_scribble.pdf)
-  
+
+  **Tutorial**{: .label .label-purple }Video Learning [[Slides](https://elvcourse.org/course-public/2026-spring/labs/lab3_video_learning.pdf)]
+
+
   <!-- **Tutorial**{: .label .label-purple }[Egocentric Video Tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab4_ego4d.pdf) -->
 
 : - Physical grounding
