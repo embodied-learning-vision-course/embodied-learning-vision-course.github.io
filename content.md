@@ -58,7 +58,7 @@ Week 4 Feb 10
 
 
 Week 5 Feb 24
-: **Lecture**{: .label .label-green }[World Models and Forecasting](https://elvcourse.org/course-public/2026-spring/lectures/week05_wm_planning.pdf)
+: **Lecture**{: .label .label-green }[World Models](https://elvcourse.org/course-public/2026-spring/lectures/week05_wm_planning.pdf)
   
   <!-- **Tutorial**{: .label .label-purple }[Motion Learning Tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab5_motion.pdf) -->
 
@@ -171,4 +171,4 @@ Week 13 Apr 17
     - Magma
     - LEO
     - CoALA
-    
+    -->
