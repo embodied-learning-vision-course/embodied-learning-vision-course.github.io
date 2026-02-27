@@ -36,8 +36,8 @@ Week 3 Feb 3
   - Physical grounding
     - Stereo, self-supervised depth
 
-Week 4 Feb 13
-: **Lecture**{: .label .label-green }[Self-Supervised Representation Learning and Object Discovery](https://elvcourse.org/course-public/2026-spring/lectures/week04_ssl_scribble.pdf)
+Week 4 Feb 10
+: **Lecture**{: .label .label-green }[Self-Supervised Representation Learning and Object Discovery](https://elvcourse.org/course-public/2026-spring/lectures/week04_ssl.pdf)
 
   **Tutorial**{: .label .label-purple }Video Learning [[Slides](https://elvcourse.org/course-public/2026-spring/labs/lab3_video_learning.pdf)]
 
@@ -56,14 +56,13 @@ Week 4 Feb 13
     - Energy-based models
     - SSL, JEPA
 
-<!--
-Week 5 Feb 20
-: **Lecture**{: .label .label-green }[World Models and Forecasting](https://elvcourse.org/course-public/2026-spring/lectures/week05_world_models.pdf)
+
+Week 5 Feb 24
+: **Lecture**{: .label .label-green }[World Models and Forecasting](https://elvcourse.org/course-public/2026-spring/lectures/week05_wm_planning.pdf)
   
-  **Tutorial**{: .label .label-purple }[Motion Learning Tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab5_motion.pdf)
+  <!-- **Tutorial**{: .label .label-purple }[Motion Learning Tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab5_motion.pdf) -->
 
 : - Representation learning
-    - Energy-based models
     - Joint embedding models
   - Object discovery
     - Pseudo-labels
@@ -71,9 +70,11 @@ Week 5 Feb 20
     - Complex-valued autoencoders
   - World models
     - Trajectory prediction
-    - Latent sequence models
     - Occupancy volume prediction
+    - Video world models
+    - Latent world models
 
+<!--
 Week 6 Feb 27
 : **Lecture**{: .label .label-green }[End-to-End Planning](https://elvcourse.org/course-public/2026-spring/lectures/week06_planning.pdf)
   
@@ -170,4 +171,4 @@ Week 13 Apr 17
     - Magma
     - LEO
     - CoALA
-    -->
+    
