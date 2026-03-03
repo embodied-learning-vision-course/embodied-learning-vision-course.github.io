@@ -57,7 +57,13 @@ Week 4 Feb 10
     - SSL, JEPA
 
 
-Week 5 Feb 24
+Week 5 Feb 17
+: **Legislative Monday**
+
+: - No lecture
+
+
+Week 6 Feb 24
 : **Lecture**{: .label .label-green }[World Models](https://elvcourse.org/course-public/2026-spring/lectures/week05_wm_planning.pdf)
   
   <!-- **Tutorial**{: .label .label-purple }[Motion Learning Tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab5_motion.pdf) -->
