@@ -106,7 +106,13 @@ Week 7 Mar 3
   - Continual learning
     - Parameter regularization
 
-Week 7 Mar 6
+ -->
+
+Week 8 Mar 10
+: Guest Lecture - Jorge Mendez-Mendez (Stony Brook University)
+: -
+
+<!-- 
 : **Lecture**{: .label .label-green }[Continual Learning, Few-Shot Learning and Meta-Learning](https://elvcourse.org/course-public/2026-spring/lectures/week07_continual_fewshot_learning.pdf)
   
   **Seminar**{: .label .label-red }[Deep Learning for Structure Prediction](https://elvcourse.org/course-public/2026-spring/seminars/week07_student_dl.pdf)
@@ -130,9 +136,13 @@ Week 7 Mar 6
   - Seminar:
     - Segment Anything
     - DETR: End-to-End Object Detection
-    - Latent Diffusion Models
+    - Latent Diffusion Models -->
 
-Week 8 Mar 13
+Week 9 Mar 17
+: **Spring Break**
+: - No lecture
+
+<!-- 
 : **Lecture**{: .label .label-green }Guest Lecture (Prof. Wei-Chiu Ma)
   
   **Seminar**{: .label .label-red }[3D Vision](https://elvcourse.org/course-public/2026-spring/seminars/week08_student_3d.pdf)
@@ -140,20 +150,26 @@ Week 8 Mar 13
     - Scene Coordinate Reconstruction
     - NeRF
     - DUSt3R
-    - Zero-1-to-3
+    - Zero-1-to-3 -->
 
-Week 9 Mar 20
-: **Seminar**{: .label .label-red }[Self-Supervised Learning and World Models](https://elvcourse.org/course-public/2026-spring/seminars/week09_student_ssl_wm.pdf)
+Week 10 Mar 24
+: -
+: -
+
+<!-- : **Seminar**{: .label .label-red }[Self-Supervised Learning and World Models](https://elvcourse.org/course-public/2026-spring/seminars/week09_student_ssl_wm.pdf)
   - Seminar:
     - DINOv2
     - IJEPA
     - Predictable and Robust Neural Representations by Straightening
     - Moving Off-the-Grid
     - DayDreamer
-    - UniSim
+    - UniSim -->
 
-Week 11 Apr 3
-: **Seminar**{: .label .label-red }[World Models and End-to-End Planning](https://elvcourse.org/course-public/2026-spring/seminars/week11_student_wm_e2e_planning.pdf)
+Week 11 Mar 31
+: -
+: -
+
+<!-- : **Seminar**{: .label .label-red }[World Models and End-to-End Planning](https://elvcourse.org/course-public/2026-spring/seminars/week11_student_wm_e2e_planning.pdf)
 
   - Seminar:
     - DreamerV2 and Backpropagation-based Policy Gradients
@@ -162,20 +178,25 @@ Week 11 Apr 3
     - Differential MPC
     - MP3
     - UniAD
-    - Embodied GPT
+    - Embodied GPT -->
 
-Week 12 Apr 10
-: **Lecture**{: .label .label-green }Guest Lecture (Dr. Andrei Bârsan)
+Week 12 Apr 7
+: -
+: -
+
+<!-- : **Lecture**{: .label .label-green }Guest Lecture (Dr. Andrei Bârsan)
 : **Seminar**{: .label .label-red }[Continual Learning](https://elvcourse.org/course-public/2026-spring/seminars/week12_student_continual_learning.pdf)
 
   - Seminar:
     - Thinking Fast and Slow for Continual Learning
     - Continual Learning for Robotic Systems
-    - Loss of Plasticity in Deep Continual Learning
+    - Loss of Plasticity in Deep Continual Learning -->
 
-Week 13 Apr 17
+Week 13 Apr 14
+: -
+: -
 
-: **Seminar**{: .label .label-red }[Few-Shot Learning and LLM Agents](https://elvcourse.org/course-public/2026-spring/seminars/week13_students_few_shot_llm_agent.pdf)
+<!-- : **Seminar**{: .label .label-red }[Few-Shot Learning and LLM Agents](https://elvcourse.org/course-public/2026-spring/seminars/week13_students_few_shot_llm_agent.pdf)
 
   - Seminar:
     - Seeing the Un-Scene
@@ -183,5 +204,23 @@ Week 13 Apr 17
     - Gemini Robotics
     - Magma
     - LEO
-    - CoALA
-    -->
+    - CoALA -->
+
+Week 14 Apr 21
+: -
+: -
+
+<!-- : **Final Project Presentations** -->
+
+
+Week 15 Apr 28
+: -
+: -
+<!-- : **Final Project Presentations** -->
+
+Week 16 May 5
+: -
+: -
+<!-- : **Final Project Presentations** -->
+
+
