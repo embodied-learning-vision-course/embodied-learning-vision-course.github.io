@@ -81,15 +81,15 @@ Week 6 Feb 24
     - Latent world models
 
 Week 7 Mar 3
-: **Lecture**{: .label .label-green }Continual Learning, Memory, and Few-Shot Learning
+: **Lecture**{: .label .label-green } [Planning, Continual Learning, Memory](https://elvcourse.org/course-public/2026-spring/lectures/week06_continual_learning.pdf)
 
   **Tutorial**{: .label .label-purple }Seeing → World Modeling [[Slides](https://elvcourse.org/course-public/2026-spring/labs/lab5_seeing_to_world_modeling.pdf)]
 
-: - Continual learning
+: - End-to-end planning
+
+  - Continual learning
 
   - Memory
-
-  - Few-shot learning
 
 <!--
 
