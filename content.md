@@ -10,9 +10,9 @@ Week 1 Jan 20
 : - Introduction to embodied learning
 
 Week 2 Jan 27
-: **Lecture**{: .label .label-green }[Deep Learning for Structured Outputs](https://embodied-learning-vision-course.github.io/course-public/2026-spring/lectures/week02_deep_learning.pdf)
+: **Lecture**{: .label .label-green }[Deep Learning for Structured Outputs](https://elvcourse.org/course-public/2026-spring/lectures/week02_deep_learning.pdf)
 
-  **Tutorial**{: .label .label-purple }[HPC tutorial](https://embodied-learning-vision-course.github.io/course-public/2026-spring/labs/lab1_hpc.pdf)
+  **Tutorial**{: .label .label-purple }[HPC tutorial](https://elvcourse.org/course-public/2026-spring/labs/lab1_hpc.pdf)
 
   - Deep learning for structured outputs
   - Graphical models, energy-based models
@@ -20,7 +20,7 @@ Week 2 Jan 27
   - Normalizing flows
 
 Week 3 Feb 3
-: **Lecture**{: .label .label-green }[3D Vision, Mapping](https://embodied-learning-vision-course.github.io/course-public/2026-spring/lectures/week03_3d_vision.pdf)
+: **Lecture**{: .label .label-green }[3D Vision, Mapping](https://elvcourse.org/course-public/2026-spring/lectures/week03_3d_vision.pdf)
   
   **Tutorial**{: .label .label-purple }Embodied Simulators [[Slides](https://elvcourse.org/course-public/2026-spring/labs/lab2_embodied_sim.pdf)] [[Code](https://github.com/embodied-learning-vision-course/course-public/tree/main/2026-spring/labs/lab2)]
 
