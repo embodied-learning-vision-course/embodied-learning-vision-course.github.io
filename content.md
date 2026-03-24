@@ -63,7 +63,7 @@ Week 5 Feb 17
 Week 6 Feb 24
 : **Lecture**{: .label .label-green }[World Models](https://elvcourse.org/course-public/2026-spring/lectures/week05_wm_planning.pdf)
   
-   **Tutorial**{: .label .label-purple }[Egocentric Video&Agent Tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab4_agent.pdf) 
+   **Tutorial**{: .label .label-purple }[Egocentric Video&Agent Tutorial](https://embodied-learning-vision-course.github.io/course-public/2026-spring/labs/lab4_agent.pdf) 
  
 : - Representation learning
     - Joint embedding models
@@ -162,7 +162,7 @@ Week 10 Mar 24
     - DayDreamer
     - UniSim -->
     
-   **Tutorial**{: .label .label-purple }[VLA Tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab6_vla.pdf) 
+   **Tutorial**{: .label .label-purple }[VLA Tutorial](https://embodied-learning-vision-course.github.io/course-public/2026-spring/labs/lab6_vla.pdf) 
 
 
 Week 11 Mar 31
