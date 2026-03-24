@@ -41,9 +41,6 @@ Week 4 Feb 10
 
   **Tutorial**{: .label .label-purple }Video Learning [[Slides](https://elvcourse.org/course-public/2026-spring/labs/lab3_video_learning.pdf)]
 
-
-  <!-- **Tutorial**{: .label .label-purple }[Egocentric Video Tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab4_ego4d.pdf) -->
-
 : - Physical grounding
     - Stereo, self-supervised depth
     - Optical flow
@@ -66,8 +63,8 @@ Week 5 Feb 17
 Week 6 Feb 24
 : **Lecture**{: .label .label-green }[World Models](https://elvcourse.org/course-public/2026-spring/lectures/week05_wm_planning.pdf)
   
-  <!-- **Tutorial**{: .label .label-purple }[Motion Learning Tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab5_motion.pdf) -->
-
+   **Tutorial**{: .label .label-purple }[Egocentric Video&Agent Tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab4_agent.pdf) 
+ 
 : - Representation learning
     - Joint embedding models
   - Object discovery
@@ -164,6 +161,9 @@ Week 10 Mar 24
     - Moving Off-the-Grid
     - DayDreamer
     - UniSim -->
+    
+   **Tutorial**{: .label .label-purple }[VLA Tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab6_vla.pdf) 
+
 
 Week 11 Mar 31
 : -
