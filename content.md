@@ -4,7 +4,7 @@ layout: page
 ---
 
 Week 1 Jan 20
-: **Lecture**{: .label .label-green }[Introduction](https://elvcourse.org/course-public/2026-spring/lectures/week01_intro.pdf)
+: **Lecture**{: .label .label-green }[Introduction]()
   <!-- **Tutorial**{: .label .label-purple }[HPC tutorial](https://elvcourse.org/course-public/2026-spring/lab/lab1_hpc.pdf) -->
 
 : - Introduction to embodied learning
